@@ -1,0 +1,27 @@
+/*-- scss:defaults --*/
+
+// Colors
+$pink: #d82e89;
+$white: #ffffff;
+$vdarkblue: #25225d;
+$darkblue: #3f78a3;
+$medblue: #8eb4c9;
+$lightblue: #b0cad8;
+$lightestblue: #e0ebef;
+
+// Base document colors
+$navbar-bg: $white; // navbar
+$navbar-fg: $vdarkblue; // navbar foreground elements
+$navbar-hl: $medblue; // highlight color when hovering over navbar links
+$body-bg: $white; // page background 
+$body-color: $vdarkblue; // page text 
+$footer-fg: $vdarkblue; 
+// $footer-bg: $lightblue; // footer 
+$link-color: $pink; // hyperlinks 
+
+// button hover styling
+.btn:hover {
+  color: $white;
+  background-color: $lightblue;
+  border-color: $vdarkblue;
+}
