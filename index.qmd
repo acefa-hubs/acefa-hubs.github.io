@@ -1,7 +1,72 @@
 ---
-title: "acefa-hubs.github.io"
+toc: false
+sidebar: false
+css: homepage.css
+listing:
+  contents: 
+    - "pillars/decision-support.qmd"
+    - "pillars/methods-and-tools.qmd"
+    - "pillars/data.qmd"
+    - "pillars/engagement.qmd"
+  sort: false
+  type: grid
+  fields: [image, title, description]
+  grid-columns: 4
 ---
 
-This is a Quarto website.
+::: {#hero-banner .column-screen}
+::: {.grid .column-page}
+::: {.headline .g-col-lg-6 .g-col-12 .g-col-md-12}
+::: h1
+Australian Consortium for Epidemic Forecasting & Analytics
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: h2
+<!-- Possible subtitle -->
+:::
+
+<!-- ```{=html} -->
+
+<!-- <a class="github-button" href="https://github.com/linogaliana/python-datascientist" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this website on Github">Star this website on Github</a><script async defer src="https://buttons.github.io/buttons.js"></script> -->
+
+<!-- ``` -->
+
+<br>
+
+Working to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting.
+
+<br>
+
+<!-- Our work can be found on [**Github**](https://github.com/acefa-hubs) <a href="https://github.com/acefa-hubs" class="github"><i class="fab fa-github"></i></a>. -->
+
+
+
+<br>
+:::
+
+::: {.g-col-lg-6 .g-col-12 .g-col-md-12}
+```{r}
+#| echo: false
+library(ggplot2)
+library(gganimate)
+
+ggplot(mtcars, aes(factor(cyl), mpg)) + 
+  geom_boxplot() + 
+  # Here comes the gganimate code
+  transition_states(
+    gear,
+    transition_length = 2,
+    state_length = 1
+  ) +
+  enter_fade() + 
+  exit_shrink() +
+  ease_aes('sine-in-out')
+```
+
+:::
+:::
+:::
+
+<br>
+
+

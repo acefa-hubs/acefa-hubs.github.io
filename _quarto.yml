@@ -2,18 +2,35 @@ project:
   type: website
 
 website:
-  title: "acefa-hubs.github.io"
+  favicon: images/ACEFA-aus-only-RGB.png
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    logo: images/ACEFA-Logo-RGB.png
+    right:
+      - text: "Research pillars"
+        menu:
+          - pillars/decision-support.qmd
+          - pillars/methods-and-tools.qmd
+          - pillars/data.qmd
+          - pillars/engagement.qmd
       - about.qmd
+      - icon: github
+        href: https://github.com/acefa-hubs
+  page-footer:
+    center: "© ACEFA, 2024"
+
+# don't re-execute code unless that code has changed
+execute:
+  cache: true
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      - yeti
+      - styles.scss
     css: styles.css
     toc: true
-
-
+    grid:
+      sidebar-width: 0px
+      body-width: 1000px
+      margin-width: 250px
 

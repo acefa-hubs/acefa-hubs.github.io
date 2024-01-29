@@ -1,0 +1,8 @@
+---
+title: "**Methods and Tools**"
+title-block-banner: "#25225d"
+title-block-banner-color: white
+description: "Advance methods and software tools for epidemic analysis."
+image: ../images/laptop-code.png
+---
+
