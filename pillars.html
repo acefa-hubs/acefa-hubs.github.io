@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Team</title>
+<title>Research pillars</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,7 +30,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./images/ACEFA-aus-only-RGB.png" rel="icon" type="image/png">
+<link href="./ACEFA-aus-only-RGB.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -60,14 +62,38 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<style>
+<script>
 
-      .quarto-title-block .quarto-title-banner {
-        background-image: url(images/virus-transparent.png);
-background-size: cover;
-      }
-</style>
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
+    const options = {
+      valueNames: ['listing-title','listing-subtitle','listing-date','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -80,7 +106,7 @@ background-size: cover;
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/ACEFA-Logo-RGB.png" alt="" class="navbar-logo">
+    <img src="./ACEFA-Logo-RGB.png" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -95,25 +121,13 @@ background-size: cover;
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-research-pillars">    
         <li>
-    <a class="dropdown-item" href="./pillars/decision-support.html" rel="" target="">
+    <a class="dropdown-item" href="./testdecision-support.html" rel="" target="">
  <span class="dropdown-text"><strong>Decision Support</strong></span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./pillars/methods-and-tools.html" rel="" target="">
- <span class="dropdown-text"><strong>Methods and Tools</strong></span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./pillars/data.html" rel="" target="">
- <span class="dropdown-text"><strong>Data</strong></span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./pillars/engagement.html" rel="" target="">
- <span class="dropdown-text"><strong>Engagement</strong></span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./about.html" rel="" target="">
  <span class="menu-text">Team</span></a>
   </li>  
   <li class="nav-item compact">
@@ -129,39 +143,99 @@ background-size: cover;
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">Team</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div></div></div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Research pillars</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
 
 
 
 
-<p>ACEFA involves multiple academic research groups from across Australia including the <a href="https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/infectious-disease-dynamics">Infectious Disease Dynamics Unit</a> at the University of Melbourne, <a href="https://www.telethonkids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/">Infectious Disease Ecology and Modelling group</a> at Telethon Kids Institute, <a href="https://www.dst.defence.gov.au/">Defence Science and Technology Group</a>, and colleagues at Monash University, University of New South Wales, Australian National University, James Cook University, and the University of Adelaide. The consortium’s work builds on a national seasonal influenza forecasting program (2014–19) and <a href="https://doi.org/10.26188/24845328.v1">COVID-19 situational assessment consortium (2020–23)</a>.</p>
 
-
-
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1706511994014" data-listing-reading-time-sort="1">
+<a href="./pillars/data.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./images/chart-line.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+<strong>Data</strong>
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1706511981682" data-listing-reading-time-sort="1">
+<a href="./pillars/decision-support.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./images/route.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+<strong>Decision Support</strong>
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1706512701350" data-listing-reading-time-sort="1">
+<a href="./pillars/engagement.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./images/users.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+<strong>Engagement</strong>
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1706511987653" data-listing-reading-time-sort="1">
+<a href="./pillars/methods-and-tools.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./images/laptop-code.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+<strong>Methods and Tools</strong>
+</h5>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

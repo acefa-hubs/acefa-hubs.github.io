@@ -1,6 +1,12 @@
+/*-- this is to make sure html links aren't underlined --*/
 a {text-decoration: none; }
 
+
+
 /*-- navbar --*/
+
+/*-- below copied from https://github.com/realworlddatascience/realworlddatascience.github.io/blob/main/rwds.css --*/
+/*-- to make navbar thicker to accommodate logo --*/
 
 .navbar {
   padding-top: 0;
@@ -10,9 +16,8 @@ a {text-decoration: none; }
 }
 
 #quarto-header {
-  border-bottom: 1px solid #25225d;
+  border-bottom: 2px solid #25225d;
 }
-
 
 .navbar-brand.navbar-brand-logo {
   display: flex;
@@ -42,8 +47,6 @@ a {text-decoration: none; }
   align-items: baseline;
 }
 }
-
-
 
 .nav-item {
   margin-top: 5rem; 

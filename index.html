@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title></title>
+<title>index</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,10 +30,13 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./ACEFA.png" rel="icon" type="image/png">
+<link href="./images/ACEFA-aus-only-RGB.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -59,9 +62,41 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="homepage.css">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -72,7 +107,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./ACEFA-Logo-RGB.png" alt="" class="navbar-logo">
+    <img src="./images/ACEFA-Logo-RGB.png" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -81,9 +116,32 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research-pillars" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Research pillars</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-research-pillars">    
+        <li>
+    <a class="dropdown-item" href="./pillars/decision-support.html" rel="" target="">
+ <span class="dropdown-text"><strong>Decision Support</strong></span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./pillars/methods-and-tools.html" rel="" target="">
+ <span class="dropdown-text"><strong>Methods and Tools</strong></span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./pillars/data.html" rel="" target="">
+ <span class="dropdown-text"><strong>Data</strong></span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./pillars/engagement.html" rel="" target="">
+ <span class="dropdown-text"><strong>Engagement</strong></span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+ <span class="menu-text">Team</span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/acefa-hubs" rel="" target=""><i class="bi bi-github" role="img">
@@ -103,21 +161,117 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-jolla">
- <header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title"></h1>
-<p class="subtitle lead">Australian Consortium for Epidemic Forecasting &amp; Analytics</p>
-</div>
-<div class="quarto-title-meta">
-  </div>
-</header><main class="content" id="quarto-document-content">
-<p>Description and <a href="https://google.com">links</a></p>
+<main class="content page-columns page-full" id="quarto-document-content">
 
 
-</main>  
+
+<div id="hero-banner" class="column-screen page-columns page-full">
+<div class="grid column-page">
+<div class="headline g-col-lg-6 g-col-12 g-col-md-12">
+<div class="h1">
+<p>Australian Consortium for Epidemic Forecasting &amp; Analytics</p>
 </div>
- <!-- /main -->
+<div class="h2">
+<!-- Possible subtitle -->
+</div>
+<!-- ```{=html} -->
+<!-- <a class="github-button" href="https://github.com/linogaliana/python-datascientist" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this website on Github">Star this website on Github</a><script async defer src="https://buttons.github.io/buttons.js"></script> -->
+<!-- ``` -->
+<p><br></p>
+<p>Working to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting.</p>
+<p><br></p>
+<!-- Our work can be found on [**Github**](https://github.com/acefa-hubs) <a href="https://github.com/acefa-hubs" class="github"><i class="fab fa-github"></i></a>. -->
+<p><br></p>
+</div>
+<div class="g-col-lg-6 g-col-12 g-col-md-12">
+<div class="cell" data-hash="index_cache/html/unnamed-chunk-1_b68686e48b52258785c6c60419d56211">
+<div class="cell-output-display">
+<p><img src="index_files/figure-html/unnamed-chunk-1-1.gif" class="img-fluid"></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><br></p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-4">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1706530034375" data-listing-reading-time-sort="1">
+<a href="./pillars/decision-support.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./images/route.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+<strong>Decision Support</strong>
+</h5>
+<div class="card-text listing-description">
+Generate and share real-time analyses with Australian decision-makers and the public.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1706530038292" data-listing-reading-time-sort="1">
+<a href="./pillars/methods-and-tools.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./images/laptop-code.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+<strong>Methods and Tools</strong>
+</h5>
+<div class="card-text listing-description">
+Advance methods and software tools for epidemic analysis.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1706529937631" data-listing-reading-time-sort="1">
+<a href="./pillars/data.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./images/chart-line.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+<strong>Data</strong>
+</h5>
+<div class="card-text listing-description">
+Inform the design of surveillance studies to optimise data collection for public health action.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1706530026538" data-listing-reading-time-sort="1">
+<a href="./pillars/engagement.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./images/users.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+<strong>Engagement</strong>
+</h5>
+<div class="card-text listing-description">
+Develop and maintain a community of practice among key stakeholders.
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -138,6 +292,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
