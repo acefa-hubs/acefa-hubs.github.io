@@ -1,5 +1,6 @@
 ---
-title: "About"
+title: "Team"
+title-block-banner: images/virus-transparent.png
 ---
 
-About this site
+ACEFA involves multiple academic research groups from across Australia including the [Infectious Disease Dynamics Unit](https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/infectious-disease-dynamics) at the University of Melbourne, [Infectious Disease Ecology and Modelling group](https://www.telethonkids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/) at Telethon Kids Institute, [Defence Science and Technology Group](https://www.dst.defence.gov.au/), and colleagues at Monash University, University of New South Wales, Australian National University, James Cook University, and the University of Adelaide. The consortium's work builds on a national seasonal influenza forecasting program (2014–19) and [COVID-19 situational assessment consortium (2020–23)](https://doi.org/10.26188/24845328.v1).
