@@ -1,0 +1,14 @@
+{
+  "hash": "764ad9ab94443ff7cf593b9415aadbb6",
+  "result": {
+    "markdown": "---\ntoc: false\nsidebar: false\ncss: homepage.css\nlisting:\n  contents: \n    - \"pillars/decision-support.qmd\"\n    - \"pillars/methods-and-tools.qmd\"\n    - \"pillars/data.qmd\"\n    - \"pillars/engagement.qmd\"\n  sort: false\n  type: grid\n  fields: [image, title, description]\n  grid-columns: 4\n---\n\n\n::: {#hero-banner .column-screen}\n::: {.grid .column-page}\n::: {.headline .g-col-lg-6 .g-col-12 .g-col-md-12}\n::: h1\nAustralian Consortium for Epidemic Forecasting & Analytics\n:::\n\n::: h2\n<!-- Possible subtitle -->\n:::\n\n<!-- ```{=html} -->\n\n<!-- <a class=\"github-button\" href=\"https://github.com/linogaliana/python-datascientist\" data-icon=\"octicon-star\" data-size=\"large\" data-show-count=\"true\" aria-label=\"Star this website on Github\">Star this website on Github</a><script async defer src=\"https://buttons.github.io/buttons.js\"></script> -->\n\n<!-- ``` -->\n\n<br>\n\nWorking to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting.\n\n<br>\n\n<!-- Our work can be found on [**Github**](https://github.com/acefa-hubs) <a href=\"https://github.com/acefa-hubs\" class=\"github\"><i class=\"fab fa-github\"></i></a>. -->\n\n\n\n<br>\n:::\n\n::: {.g-col-lg-6 .g-col-12 .g-col-md-12}\n\n::: {.cell hash='index_cache/html/unnamed-chunk-1_b68686e48b52258785c6c60419d56211'}\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.gif)\n:::\n:::\n\n\n:::\n:::\n:::\n\n<br>\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
