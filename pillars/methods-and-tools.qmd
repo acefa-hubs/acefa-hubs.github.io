@@ -6,3 +6,4 @@ description: "Advance methods and software tools for epidemic analysis."
 image: ../images/laptop-code.png
 ---
 
+Further detail. 
