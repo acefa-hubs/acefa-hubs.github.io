@@ -20,7 +20,6 @@ website:
 
 # don't re-execute code unless that code has changed
 execute:
-  cache: true
   freeze: auto
 
 format:
