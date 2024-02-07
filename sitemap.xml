@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://acefa-hubs.github.io/about.html</loc>
+    <lastmod>2024-02-07T04:08:57.248Z</lastmod>
+  </url>
+  <url>
     <loc>https://acefa-hubs.github.io/pillars/data.html</loc>
-    <lastmod>2024-02-01T07:24:26.350Z</lastmod>
+    <lastmod>2024-02-07T04:08:57.260Z</lastmod>
   </url>
   <url>
     <loc>https://acefa-hubs.github.io/pillars/engagement.html</loc>
-    <lastmod>2024-02-01T07:24:25.917Z</lastmod>
-  </url>
-  <url>
-    <loc>https://acefa-hubs.github.io/about.html</loc>
-    <lastmod>2024-02-01T07:24:25.451Z</lastmod>
+    <lastmod>2024-02-07T04:08:57.260Z</lastmod>
   </url>
   <url>
     <loc>https://acefa-hubs.github.io/index.html</loc>
-    <lastmod>2024-02-01T07:24:25.224Z</lastmod>
-  </url>
-  <url>
-    <loc>https://acefa-hubs.github.io/pillars/decision-support.html</loc>
-    <lastmod>2024-02-01T07:24:25.681Z</lastmod>
+    <lastmod>2024-02-07T04:08:57.260Z</lastmod>
   </url>
   <url>
     <loc>https://acefa-hubs.github.io/pillars/methods-and-tools.html</loc>
-    <lastmod>2024-02-01T07:24:26.137Z</lastmod>
+    <lastmod>2024-02-07T04:08:57.260Z</lastmod>
+  </url>
+  <url>
+    <loc>https://acefa-hubs.github.io/pillars/decision-support.html</loc>
+    <lastmod>2024-02-07T04:08:57.260Z</lastmod>
   </url>
 </urlset>
