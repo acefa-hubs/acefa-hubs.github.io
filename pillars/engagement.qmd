@@ -7,3 +7,5 @@ image: ../images/users.png
 ---
 
 Develop and maintain a community of practice among key stakeholders including public health decision-makers and practitioners, academic researchers, and surveillance system leads.
+
+Further detail.
