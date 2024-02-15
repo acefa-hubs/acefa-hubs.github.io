@@ -18,7 +18,7 @@ listing:
       image: ../images/users.png
   sort: false
   type: grid
-  fields: [image, title, description]
+  fields: [title, description, image]
   grid-columns: 4
 ---
 
