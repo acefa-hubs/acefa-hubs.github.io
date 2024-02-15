@@ -6,12 +6,9 @@ website:
   navbar:
     logo: images/ACEFA-Logo-RGB.png
     right:
-      - text: "Research pillars"
-        menu:
-          - pillars/decision-support.qmd
-          - pillars/methods-and-tools.qmd
-          - pillars/data.qmd
-          - pillars/engagement.qmd
+      # - text: "Activities"
+      #   menu: 
+      #     - activities/winter-flu.qmd
       - about.qmd
       - icon: github
         href: https://github.com/acefa-hubs

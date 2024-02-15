@@ -1,9 +1,0 @@
----
-title: "**Decision Support**"
-title-block-banner: "#25225d"
-title-block-banner-color: white
-description: "Generate and share real-time analyses with Australian decision-makers and the public."
-image: ../images/route.png
----
-
-Further detail. 

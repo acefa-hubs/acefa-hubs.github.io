@@ -1,9 +1,0 @@
----
-title: "**Data**"
-title-block-banner: "#25225d"
-title-block-banner-color: white
-description: "Inform the design of surveillance studies to optimise data collection for public health action."
-image: ../images/clipboard.png
----
-
-Further detail. 
