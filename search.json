@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "pillars/data.html",
-    "href": "pillars/data.html",
-    "title": "Data",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
     "section": "",
-    "text": "Further detail."
-  },
-  {
-    "objectID": "pillars/engagement.html",
-    "href": "pillars/engagement.html",
-    "title": "Engagement",
-    "section": "",
-    "text": "Develop and maintain a community of practice among key stakeholders including public health decision-makers and practitioners, academic researchers, and surveillance system leads.\nFurther detail."
+    "text": "Australian Consortium for Epidemic Forecasting & Analytics\n\n\n\n\n\n\n\n\nWorking to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Support\n\n\nGenerate and share real-time analyses with Australian decision-makers and the public.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMethods and Tools\n\n\nAdvance methods and software tools for epidemic analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nData\n\n\nInform the design of surveillance studies to optimise data collection for public health action.\n\n\n\n\n\n\n\n\n\n\n\n\n\nEngagement\n\n\nDevelop and maintain a community of practice among key stakeholders.\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -21,23 +14,9 @@
     "text": "ACEFA involves multiple academic research groups from across Australia including the Infectious Disease Dynamics Unit at the University of Melbourne, Infectious Disease Ecology and Modelling group at Telethon Kids Institute, Defence Science and Technology Group, and colleagues at Monash University, University of New South Wales, Australian National University, James Cook University, and the University of Adelaide. The consortium’s work builds on a national seasonal influenza forecasting program (2014–19) and COVID-19 situational assessment consortium (2020–23)."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "",
-    "section": "",
-    "text": "Australian Consortium for Epidemic Forecasting & Analytics\n\n\n\n\n\n\n\n\nWorking to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Support\n\n\nGenerate and share real-time analyses with Australian decision-makers and the public.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMethods and Tools\n\n\nAdvance methods and software tools for epidemic analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nData\n\n\nInform the design of surveillance studies to optimise data collection for public health action.\n\n\n\n\n\n\n\n\n\n\n\n\n\nEngagement\n\n\nDevelop and maintain a community of practice among key stakeholders.\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "pillars/decision-support.html",
-    "href": "pillars/decision-support.html",
-    "title": "Decision Support",
-    "section": "",
-    "text": "Further detail."
-  },
-  {
-    "objectID": "pillars/methods-and-tools.html",
-    "href": "pillars/methods-and-tools.html",
-    "title": "Methods and Tools",
+    "objectID": "activities/winter-flu.html",
+    "href": "activities/winter-flu.html",
+    "title": "Winter flu forecast 2024",
     "section": "",
     "text": "Further detail."
   }
