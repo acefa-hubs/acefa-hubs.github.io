@@ -4,10 +4,18 @@ sidebar: false
 css: homepage.css
 listing:
   contents: 
-    - "pillars/decision-support.qmd"
-    - "pillars/methods-and-tools.qmd"
-    - "pillars/data.qmd"
-    - "pillars/engagement.qmd"
+    - title: "**Decision Support**"
+      description: "Generate and share real-time analyses with Australian decision-makers and the public."
+      image: ../images/route.png
+    - title: "**Methods and Tools**"
+      description: "Advance methods and software tools for epidemic analysis."
+      image: ../images/laptop-code.png
+    - title: "**Data**"
+      description: "Inform the design of surveillance studies to optimise data collection for public health action."
+      image: ../images/clipboard.png
+    - title: "**Engagement**"
+      description: "Develop and maintain a community of practice among key stakeholders."
+      image: ../images/users.png
   sort: false
   type: grid
   fields: [image, title, description]
