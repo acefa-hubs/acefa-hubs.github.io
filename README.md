@@ -12,10 +12,12 @@ This github pages website is built with quarto. It is configured so that it publ
 
 ### Setting up
 
-1.  Fork this repo into personal GitHub account
-2.  Navigate to your fork `github.com/[YOURUSERNAME]/acefa-hubs.github.io` and clone a local version to your machine
-3.  Open new project from version control in local RStudio
-4.  Configure your remote repository:
+1.  Fork this repo into personal GitHub account > you must untick the option to "Copy main branch only" as you need both branches. 
+ <img width="755" alt="Screenshot 2024-02-16 at 2 21 25 pm" src="https://github.com/acefa-hubs/acefa-hubs.github.io/assets/11023506/7c9e2890-4200-4a24-9e27-24bbfda7d3d1">
+
+3.  Navigate to your fork `github.com/[YOURUSERNAME]/acefa-hubs.github.io` and clone a local version to your machine
+4.  Open new project from version control in local RStudio
+5.  Configure your remote repository:
 
 -   list remotes
 
