@@ -6,16 +6,16 @@ listing:
   contents: 
     - title: "**Decision Support**"
       description: "Generate and share real-time analyses with Australian decision-makers and the public."
-      image: images/blue-route.png
+      image: images/vdarkblue-route.png
     - title: "**Methods and Tools**"
       description: "Advance methods and software tools for epidemic analysis."
-      image: images/blue-laptop-code.png
+      image: images/vdarkblue-laptop-code.png
     - title: "**Data**"
       description: "Inform the design of surveillance studies to optimise data collection for public health action."
-      image: images/blue-clipboard.png
+      image: images/vdarkblue-clipboard.png
     - title: "**Engagement**"
       description: "Develop and maintain a community of practice among key stakeholders."
-      image: images/blue-users.png
+      image: images/vdarkblue-users.png
   sort: false
   type: grid
   fields: [title, description, image]
