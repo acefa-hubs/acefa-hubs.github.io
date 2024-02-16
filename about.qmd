@@ -1,6 +1,6 @@
 ---
 title: "Team"
-title-block-banner: "#25225d"
+title-block-banner: "#3f78a3"
 title-block-banner-color: white
 ---
 
