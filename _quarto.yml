@@ -15,7 +15,7 @@ website:
   page-footer:
     center: |
       © ACEFA, 2024 <br>
-      ACEFA acknowledges Aboriginal and Torres Strait Islander people as the Traditional Custodians of the lands on which we work and live, and pays respect to their Elders, past and present
+      In the spirit of reconciliation ACEFA acknowledges the Traditional Custodians of Country throughout Australia and their connections to land, waters and community. We pay our respect to their Elders past and present and extend that respect to all Aboriginal and Torres Strait Islander peoples today.
 
 # don't re-execute code unless that code has changed
 execute:

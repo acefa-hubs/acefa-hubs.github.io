@@ -1,11 +1,39 @@
 ---
-title: "Team"
+title: "About"
 title-block-banner: "#3f78a3"
 title-block-banner-color: white
+toc: false
+sidebar: false
 ---
 
 ACEFA aims to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting. Our work builds on a national seasonal influenza forecasting program (2014–19) and [COVID-19 situational assessment consortium (2020–23)](https://doi.org/10.26188/24845328.v1).
 
+### Team
 
-ACEFA involves multiple academic research groups from across Australia including the [Infectious Disease Dynamics Unit](https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/infectious-disease-dynamics) at the University of Melbourne, [Infectious Disease Ecology and Modelling group](https://www.telethonkids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/) at Telethon Kids Institute, [Defence Science and Technology Group](https://www.dst.defence.gov.au/), and colleagues at Monash University, University of New South Wales, Australian National University, James Cook University, and the University of Adelaide. 
+ACEFA involves multiple academic research groups from across Australia, including: 
+
+* [Infectious Disease Dynamics Unit](https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/infectious-disease-dynamics) at the University of Melbourne
+* [Infectious Disease Ecology and Modelling group](https://www.telethonkids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/) at Telethon Kids Institute/Curtin University
+* [Defence Science and Technology Group](https://www.dst.defence.gov.au/) 
+* Monash University
+* University of New South Wales
+* Australian National University
+* Infectious diseases modelling and Epidemiology Group, Australian Institute of Tropical Health and Medicine, at James Cook University
+* and the University of Adelaide. 
+
+### Contact Us
+
++-----------------------------------------+--------------------------------------+--------------------------------------------+
+| **Freya Shearer** \                     | **Nick Golding** \                   | **James Wood** \                           |
+| University of Melbourne, Melbourne, VIC\| Curtin University, Perth, WA \       | University of New South Wales, Sydney, NSW\|
+| freya.shearer [at] unimelb.edu.au       | nick.golding.research [at] gmail.com | james.wood [at] unsw.edu.au                | 
++-----------------------------------------+--------------------------------------+--------------------------------------------+
+
+
+
+
+
+
+
+
 
