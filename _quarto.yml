@@ -4,7 +4,7 @@ project:
 website:
   favicon: images/ACEFA-aus-only-RGB.png
   navbar:
-    logo: images/ACEFA-Logo-RGB.png
+    logo: images/ACEFA-Logo-RGB_no_subtitle.png
     right:
       # - text: "Activities"
       #   menu: 

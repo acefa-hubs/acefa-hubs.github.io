@@ -12,28 +12,27 @@ ACEFA aims to support the timely, effective response to epidemic diseases in Aus
 
 ACEFA involves multiple academic research groups from across Australia, including: 
 
-* [Infectious Disease Dynamics Unit](https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/infectious-disease-dynamics) at the University of Melbourne
-* [Infectious Disease Ecology and Modelling group](https://www.telethonkids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/) at Telethon Kids Institute/Curtin University
+* [Infectious Disease Dynamics Unit](https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/infectious-disease-dynamics), Centre for Epidemiology and Biostatistics Research, the University of Melbourne
+* [Infectious Disease Ecology and Modelling group](https://www.telethonkids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/), Child Health Analytics Research Program, Telethon Kids Institute
 * [Defence Science and Technology Group](https://www.dst.defence.gov.au/) 
 * Monash University
 * University of New South Wales
-* Australian National University
-* Infectious diseases modelling and Epidemiology Group, Australian Institute of Tropical Health and Medicine, at James Cook University
-* and University of Adelaide. 
+* [Infectious Disease Epidemiology and Modelling](https://nceph.anu.edu.au/research/groups/infectious-disease-epidemiology-and-modelling), National Centre for Epidemiology and Population Health, Australian National University
+* [Infectious diseases modelling and Epidemiology Group](https://www.aithm.jcu.edu.au/professor-emma-mcbryde/), Australian Institute of Tropical Health and Medicine, James Cook University
+* and [Adelaide Data Science Centre](https://set.adelaide.edu.au/adelaide-data-science-centre/), University of Adelaide. 
+
+International partners:
+
+* [School of Mathematics and Statistics](https://www.canterbury.ac.nz/study/academic-study/engineering/schools-and-departments-engineering-forestry-product-design/school-of-mathematics-and-statistics), University of Canterbury
+URL  
+ 
 
 ### Contact Us
 
-+-----------------------------------------+--------------------------------------+--------------------------------------------+
-| **Freya Shearer** \                     | **Nick Golding** \                   | **James Wood** \                           |
-| University of Melbourne, Melbourne, VIC\| Curtin University, Perth, WA \       | University of New South Wales, Sydney, NSW\|
-| freya.shearer [at] unimelb.edu.au       | nick.golding.research [at] gmail.com | james.wood [at] unsw.edu.au                | 
-+-----------------------------------------+--------------------------------------+--------------------------------------------+
-
-
-
-
-
-
-
++-----------------------------------------+---------------------------------------+--------------------------------------------+
+| **Freya Shearer** \                     | **Nick Golding** \                    | **James Wood** \                           |
+| University of Melbourne, Melbourne, VIC\| Telethon Kids Institute, Perth, WA \  | University of New South Wales, Sydney, NSW\|
+| freya.shearer [at] unimelb.edu.au       | nick.golding [at] telethonkids.org.au | james.wood [at] unsw.edu.au                | 
++-----------------------------------------+---------------------------------------+--------------------------------------------+
 
 
