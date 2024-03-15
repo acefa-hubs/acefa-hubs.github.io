@@ -55,8 +55,10 @@ Working to support the timely, effective response to epidemic diseases in Austra
 ::: {.g-col-lg-6 .g-col-12 .g-col-md-12}
 
 <br> 
+<br> 
 
-<img src="images/forecast_noaxis.png" width="100%" />
+<img src="images/nsw-2022-03.gif" width="100%" />
+
 
 :::
 :::
