@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.550">
+<meta name="generator" content="quarto-1.4.551">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -159,14 +159,14 @@ background: #3f78a3;
 <li><a href="https://www.telethonkids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/">Infectious Disease Ecology and Modelling group</a>, Child Health Analytics Research Program, Telethon Kids Institute</li>
 <li><a href="https://www.dst.defence.gov.au/">Defence Science and Technology Group</a></li>
 <li>Monash University</li>
-<li>University of New South Wales</li>
+<li><a href="https://www.unsw.edu.au/medicine-health/our-schools/population-health/research/research-programs-projects/infectious-disease-dynamics-and-interventions">Infectious Disease Dynamics and Interventions Group</a>, School of Population Health, University of New South Wales</li>
 <li><a href="https://nceph.anu.edu.au/research/groups/infectious-disease-epidemiology-and-modelling">Infectious Disease Epidemiology and Modelling</a>, National Centre for Epidemiology and Population Health, Australian National University</li>
 <li><a href="https://www.aithm.jcu.edu.au/professor-emma-mcbryde/">Infectious diseases modelling and Epidemiology Group</a>, Australian Institute of Tropical Health and Medicine, James Cook University</li>
-<li>and <a href="https://set.adelaide.edu.au/adelaide-data-science-centre/">Adelaide Data Science Centre</a>, University of Adelaide.</li>
+<li>and <a href="https://set.adelaide.edu.au/adelaide-data-science-centre/">Adelaide Data Science Centre</a>, University of Adelaide</li>
 </ul>
-<p>International partners:</p>
+<p>as well as international partners:</p>
 <ul>
-<li><a href="https://www.canterbury.ac.nz/study/academic-study/engineering/schools-and-departments-engineering-forestry-product-design/school-of-mathematics-and-statistics">School of Mathematics and Statistics</a>, University of Canterbury URL</li>
+<li><a href="https://www.canterbury.ac.nz/study/academic-study/engineering/schools-and-departments-engineering-forestry-product-design/school-of-mathematics-and-statistics">School of Mathematics and Statistics</a>, University of Canterbury.</li>
 </ul>
 </section>
 <section id="contact-us" class="level3">
@@ -275,6 +275,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/acefa-hubs\.github\.io\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -309,7 +327,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
