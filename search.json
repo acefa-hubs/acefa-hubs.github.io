@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ACEFA - Australian Consortium for Epidemic Forecasting & Analytics",
+    "objectID": "activities/decision-support.html",
+    "href": "activities/decision-support.html",
+    "title": "Decision Support",
     "section": "",
-    "text": "Australian Consortium for Epidemic Forecasting & Analytics\n\n\n\n\n\n\n\n\nWorking to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting.\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Support\n\n\nGenerate and share real-time analyses with Australian decision-makers and the public.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMethods and Tools\n\n\nAdvance methods and software tools for epidemic analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nData\n\n\nInform the design of surveillance studies to optimise data collection for public health action.\n\n\n\n\n\n\n\n\n\n\n\n\n\nEngagement\n\n\nDevelop and maintain a community of practice among key stakeholders.\n\n\n\n\n\n\n\nNo matching items"
+    "text": "The clinical burden from acute viral respiratory infections during winter months will often be the result of multiple concurrent epidemics. In 2022–2023, many countries experienced large overlapping epidemics of influenza, RSV and COVID-19, exerting unusual pressure on ICU capacity. Short-term forecasting of epidemic activity can help to enable rapid understanding of the status of concurrent epidemics and preparation for any increased impact on healthcare services.\nThe project has the following aims:\n\nTo develop enhanced methods for epidemic situational assessment of viral respiratory pathogens.\nTo generate real-time epidemic analysis, including forecasts, of COVID-19, influenza, and RSV during winter to support public health risk assessment and response.\nTo assess forecast utility and public health value through both statistical performance evaluation and engagement with public health partners."
   },
   {
-    "objectID": "activities/winter-flu.html",
-    "href": "activities/winter-flu.html",
-    "title": "Winter flu forecast 2024",
+    "objectID": "activities/decision-support.html#acefa-winter-situational-assessment-program-2024",
+    "href": "activities/decision-support.html#acefa-winter-situational-assessment-program-2024",
+    "title": "Decision Support",
     "section": "",
-    "text": "Further detail."
+    "text": "The clinical burden from acute viral respiratory infections during winter months will often be the result of multiple concurrent epidemics. In 2022–2023, many countries experienced large overlapping epidemics of influenza, RSV and COVID-19, exerting unusual pressure on ICU capacity. Short-term forecasting of epidemic activity can help to enable rapid understanding of the status of concurrent epidemics and preparation for any increased impact on healthcare services.\nThe project has the following aims:\n\nTo develop enhanced methods for epidemic situational assessment of viral respiratory pathogens.\nTo generate real-time epidemic analysis, including forecasts, of COVID-19, influenza, and RSV during winter to support public health risk assessment and response.\nTo assess forecast utility and public health value through both statistical performance evaluation and engagement with public health partners."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "Australian Consortium for Epidemic Forecasting & Analytics\n\n\n\n\n\n\n\n\nWorking to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting.\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Support\n\n\nGenerate and share real-time analyses with Australian decision-makers and the public.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMethods and Tools\n\n\nAdvance methods and software tools for epidemic analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nData\n\n\nInform the design of surveillance studies to optimise data collection for public health action.\n\n\n\n\n\n\n\n\n\n\n\n\n\nEngagement\n\n\nDevelop and maintain a community of practice among key stakeholders.\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
