@@ -1,7 +1,0 @@
----
-title: "**Winter flu forecast 2024**"
-title-block-banner: "#25225d"
-title-block-banner-color: white
----
-
-Further detail. 

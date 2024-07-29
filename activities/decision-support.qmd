@@ -1,0 +1,23 @@
+---
+title: "**Decision Support**"
+description: "Generate and share real-time analyses with Australian decision-makers and the public."
+title-block-banner: "#247aa7"
+title-block-banner-color: white
+image: ../images/vdarkblue-route.png
+toc: false
+sidebar: false
+---
+
+## ACEFA Winter Situational Assessment Program 2024
+
+The clinical burden from acute viral respiratory infections during winter months will often be the result of multiple concurrent epidemics. 
+In 2022–2023, many countries experienced large overlapping epidemics of influenza, RSV and COVID-19, exerting unusual pressure on ICU capacity. 
+Short-term forecasting of epidemic activity can help to enable rapid understanding of the status of concurrent epidemics and preparation for any increased impact on healthcare services.
+
+The project has the following aims:
+
+1. To develop enhanced methods for epidemic situational assessment of viral respiratory pathogens.
+
+2. To generate real-time epidemic analysis, including forecasts, of COVID-19, influenza, and RSV during winter to support public health risk assessment and response.
+
+3. To assess forecast utility and public health value through both statistical performance evaluation and engagement with public health partners. 

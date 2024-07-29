@@ -4,9 +4,7 @@ sidebar: false
 css: homepage.css
 listing:
   contents: 
-    - title: "**Decision Support**"
-      description: "Generate and share real-time analyses with Australian decision-makers and the public."
-      image: images/vdarkblue-route.png
+    - activities/decision-support.qmd
     - title: "**Methods and Tools**"
       description: "Advance methods and software tools for epidemic analysis."
       image: images/vdarkblue-laptop-code.png
@@ -57,7 +55,7 @@ Working to support the timely, effective response to epidemic diseases in Austra
 <br> 
 <br> 
 
-<img src="images/nsw-2022-03.gif" width="100%" />
+<img src="images/EXAMPLE3.png" width="100%" />
 
 
 :::
