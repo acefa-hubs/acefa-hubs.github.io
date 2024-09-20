@@ -13,7 +13,7 @@ ACEFA aims to support the timely, effective response to epidemic diseases in Aus
 ACEFA involves multiple academic research groups from across Australia, including:
 
 * [Infectious Disease Dynamics Unit](https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/infectious-disease-dynamics), Centre for Epidemiology and Biostatistics Research, the University of Melbourne
-* [Infectious Disease Ecology and Modelling group](https://www.telethonkids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/), Child Health Analytics Research Program, Telethon Kids Institute
+* [Infectious Disease Ecology and Modelling Team](https://www.thekids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/), Child Health Analytics Research Program, The Kids Research Institute Australia
 * [Defence Science and Technology Group](https://www.dst.defence.gov.au/) 
 * Monash University
 * [Infectious Disease Dynamics and Interventions Group](https://www.unsw.edu.au/medicine-health/our-schools/population-health/research/research-programs-projects/infectious-disease-dynamics-and-interventions), School of Population Health, University of New South Wales
@@ -28,10 +28,10 @@ as well as international partners:
 
 ### Contact Us
 
-+-----------------------------------------+---------------------------------------+--------------------------------------------+
-| **Freya Shearer** \                     | **Nick Golding** \                    | **James Wood** \                           |
-| University of Melbourne, Melbourne, VIC\| Telethon Kids Institute, Perth, WA \  | University of New South Wales, Sydney, NSW\|
-| freya.shearer [at] unimelb.edu.au       | nick.golding [at] telethonkids.org.au | james.wood [at] unsw.edu.au                | 
-+-----------------------------------------+---------------------------------------+--------------------------------------------+
++-----------------------------------------+---------------------------------------------------+--------------------------------------------+
+| **Freya Shearer** \                     | **Nick Golding** \                                | **James Wood** \                           |
+| University of Melbourne, Melbourne, VIC\| The Kids Research Institute Australia, Perth, WA \| University of New South Wales, Sydney, NSW\|
+| freya.shearer [at] unimelb.edu.au       | nick.golding [at] thekids.org.au                  | james.wood [at] unsw.edu.au                | 
++-----------------------------------------+---------------------------------------------------+--------------------------------------------+
 
 
