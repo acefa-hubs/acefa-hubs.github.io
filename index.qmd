@@ -1,16 +1,23 @@
 ---
+title: ACEFA
 toc: false
 sidebar: false
 css: homepage.css
 listing:
   contents: 
-    - "pillars/decision-support.qmd"
-    - "pillars/methods-and-tools.qmd"
-    - "pillars/data.qmd"
-    - "pillars/engagement.qmd"
+    - activities/decision-support.qmd
+    - title: "**Methods and Tools**"
+      description: "Advance methods and software tools for epidemic analysis."
+      image: images/vdarkblue-laptop-code.png
+    - title: "**Data**"
+      description: "Inform the design of surveillance studies to optimise data collection for public health action."
+      image: images/vdarkblue-clipboard.png
+    - title: "**Engagement**"
+      description: "Develop and maintain a community of practice among key stakeholders."
+      image: images/vdarkblue-users.png
   sort: false
   type: grid
-  fields: [image, title, description]
+  fields: [title, description, image]
   grid-columns: 4
 ---
 
@@ -45,7 +52,12 @@ Working to support the timely, effective response to epidemic diseases in Austra
 :::
 
 ::: {.g-col-lg-6 .g-col-12 .g-col-md-12}
-<img src="images/tp.png" width="100%" />
+
+<br> 
+<br> 
+
+<img src="images/EXAMPLE3.png" width="100%" />
+
 
 :::
 :::
