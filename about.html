@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-b068087870a1225be96fd5b0019b5903.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -172,7 +172,7 @@ background: #3f78a3;
 <li><a href="https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/infectious-disease-dynamics">Infectious Disease Dynamics Unit</a>, Centre for Epidemiology and Biostatistics Research, the University of Melbourne</li>
 <li><a href="https://www.thekids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/">Infectious Disease Ecology and Modelling Team</a>, Child Health Analytics Research Program, The Kids Research Institute Australia</li>
 <li><a href="https://www.dst.defence.gov.au/">Defence Science and Technology Group</a></li>
-<li>Monash University</li>
+<li><a href="https://www.monash.edu/business/ebs/">Department of Econometrics &amp; Business Statistics, Monash University</a></li>
 <li><a href="https://www.unsw.edu.au/medicine-health/our-schools/population-health/research/research-programs-projects/infectious-disease-dynamics-and-interventions">Infectious Disease Dynamics and Interventions Group</a>, School of Population Health, University of New South Wales</li>
 <li><a href="https://nceph.anu.edu.au/research/groups/infectious-disease-epidemiology-and-modelling">Infectious Disease Epidemiology and Modelling</a>, National Centre for Epidemiology and Population Health, Australian National University</li>
 <li><a href="https://www.aithm.jcu.edu.au/professor-emma-mcbryde/">Infectious diseases modelling and Epidemiology Group</a>, Australian Institute of Tropical Health and Medicine, James Cook University</li>
@@ -292,8 +292,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -404,7 +402,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
