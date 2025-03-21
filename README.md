@@ -1,6 +1,6 @@
 # ACEFA Website
 
-Repository for the website for ACEFA - the Australian Consortium for Epidemic Forecasting & Analytics.
+Repository for the website for ACEFA - the Australia-Aotearoa Consortium for Epidemic Forecasting & Analytics.
 
 ## Instructions for contributing to this repository
 
@@ -59,7 +59,7 @@ git remote -v
 
 -   `index.qmd` is the file for the main landing page
 -   `about.qmd` is the file for the "Team" tab
--   `pillars/` folder contains `decision-support.qmd`, `methods-and-tools.qmd`, `data.qmd`, and `engagement.qmd`, the main roles of the consortium.
+-   `activities/` folder contains `decision-support.qmd`, `methods-and-tools.qmd`, `data.qmd`, and `engagement.qmd`, the main roles of the consortium.
 -   `_quarto.yml` contains higher level organisation for the website
 -   `.css` and `.scss` files contain style code
 -   `images/` folder stores all images used as thumbnails or as figures
