@@ -10,7 +10,7 @@ ACEFA aims to support the timely, effective response to epidemic diseases in Aus
 
 ### Team
 
-ACEFA involves multiple academic research groups from across Australia, including:
+ACEFA involves multiple academic research groups from across Australia and New Zealand, including:
 
 * [Infectious Disease Dynamics Unit](https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/infectious-disease-dynamics), Centre for Epidemiology and Biostatistics Research, the University of Melbourne
 * [Infectious Disease Ecology and Modelling Team](https://www.thekids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/), Child Health Analytics Research Program, The Kids Research Institute Australia

@@ -25,7 +25,7 @@ listing:
 ::: {.grid .column-page}
 ::: {.headline .g-col-lg-6 .g-col-12 .g-col-md-12}
 ::: h1
-Australian Consortium for Epidemic Forecasting & Analytics
+Australia-Aotearoa Consortium for Epidemic Forecasting & Analytics
 :::
 
 ::: h2
@@ -40,7 +40,7 @@ Australian Consortium for Epidemic Forecasting & Analytics
 
 <br>
 
-Working to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting.
+Working to support the timely, effective response to epidemic diseases in Australia and New Zealand through real-time data analytics, modelling, and forecasting.
 
 <br>
 
