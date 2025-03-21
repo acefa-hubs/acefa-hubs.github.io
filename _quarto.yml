@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Australian Consortium for Epidemic Forecasting & Analytics"
+  title: "Australia-Aotearoa Consortium for Epidemic Forecasting & Analytics"
   favicon: images/ACEFA-aus-only-RGB.png
   navbar:
     logo: images/ACEFA-Logo-RGB_no_subtitle.png
@@ -16,7 +16,7 @@ website:
   page-footer:
     center: |
       © ACEFA, 2024 <br>
-      In the spirit of reconciliation ACEFA acknowledges the Traditional Custodians of Country throughout Australia and their connections to land, waters, and community. We pay our respect to their Elders past and present and extend that respect to all Aboriginal and Torres Strait Islander peoples.
+      In the spirit of reconciliation ACEFA acknowledges the Traditional Custodians throughout Australia and Aotearoa and their connections to land, waters, and community. We pay our respect to their Elders past and present and extend that respect to all Aboriginal, Torres Strait Islander and Māori peoples.
 
 # don't re-execute code unless that code has changed
 execute:
