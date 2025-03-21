@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ACEFA",
-    "section": "",
-    "text": "Australian Consortium for Epidemic Forecasting & Analytics\n\n\n\n\n\n\n\n\nWorking to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting.\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Support\n\n\nGenerate and share real-time analyses with Australian decision-makers and the public.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMethods and Tools\n\n\nAdvance methods and software tools for epidemic analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nData\n\n\nInform the design of surveillance studies to optimise data collection for public health action.\n\n\n\n\n\n\n\n\n\n\n\n\n\nEngagement\n\n\nDevelop and maintain a community of practice among key stakeholders.\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "ACEFA aims to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting. Our work builds on a national seasonal influenza forecasting program (2014–19) and COVID-19 situational assessment consortium (2020–23).\n\nTeam\nACEFA involves multiple academic research groups from across Australia, including:\n\nInfectious Disease Dynamics Unit, Centre for Epidemiology and Biostatistics Research, the University of Melbourne\nInfectious Disease Ecology and Modelling Team, Child Health Analytics Research Program, The Kids Research Institute Australia\nDefence Science and Technology Group\nDepartment of Econometrics & Business Statistics, Monash University\nInfectious Disease Dynamics and Interventions Group, School of Population Health, University of New South Wales\nInfectious Disease Epidemiology and Modelling, National Centre for Epidemiology and Population Health, Australian National University\nInfectious diseases modelling and Epidemiology Group, Australian Institute of Tropical Health and Medicine, James Cook University\nand Adelaide Data Science Centre, University of Adelaide\n\nas well as international partners:\n\nSchool of Mathematics and Statistics, University of Canterbury.\n\n\n\nContact Us\n\n\n\n\n\n\n\n\nFreya Shearer\nUniversity of Melbourne, Melbourne, VIC\nfreya.shearer [at] unimelb.edu.au\nNick Golding\nThe Kids Research Institute Australia, Perth, WA\nnick.golding [at] thekids.org.au\nJames Wood\nUniversity of New South Wales, Sydney, NSW\njames.wood [at] unsw.edu.au"
-  },
-  {
     "objectID": "activities/decision-support.html",
     "href": "activities/decision-support.html",
     "title": "Decision Support",
@@ -26,5 +12,19 @@
     "title": "Decision Support",
     "section": "",
     "text": "The clinical burden from acute viral respiratory infections during winter months will often be the result of multiple concurrent epidemics. In 2022–2023, many countries experienced large overlapping epidemics of influenza, RSV and COVID-19, exerting unusual pressure on ICU capacity. Short-term forecasting of epidemic activity can help to enable rapid understanding of the status of concurrent epidemics and preparation for any increased impact on healthcare services.\nThe project has the following aims:\n\nTo develop enhanced methods for epidemic situational assessment of viral respiratory pathogens.\nTo generate real-time epidemic analysis, including forecasts, of COVID-19, influenza, and RSV during winter to support public health risk assessment and response.\nTo assess forecast utility and public health value through both statistical performance evaluation and engagement with public health partners."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ACEFA",
+    "section": "",
+    "text": "Australia-Aotearoa Consortium for Epidemic Forecasting & Analytics\n\n\n\n\n\n\n\n\nWorking to support the timely, effective response to epidemic diseases in Australia and New Zealand through real-time data analytics, modelling, and forecasting.\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Support\n\n\nGenerate and share real-time analyses with decision-makers and the public in Australia and New Zealand.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMethods and Tools\n\n\nAdvance methods and software tools for epidemic analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nData\n\n\nInform the design of surveillance studies to optimise data collection for public health action.\n\n\n\n\n\n\n\n\n\n\n\n\n\nEngagement\n\n\nDevelop and maintain a community of practice among key stakeholders.\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "ACEFA aims to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting. Our work builds on a national seasonal influenza forecasting program (2014–19) and COVID-19 situational assessment consortium (2020–23).\n\nTeam\nACEFA involves multiple academic research groups from across Australia and New Zealand, including:\n\nInfectious Disease Dynamics Unit, Centre for Epidemiology and Biostatistics Research, The University of Melbourne, Victoria, Australia\nInfectious Disease Ecology and Modelling Team, Child Health Analytics Research Program, The Kids Research Institute Australia, Western Australia, Australia\nDefence Science and Technology Group, Department of Defence, Australia\nDepartment of Econometrics & Business Statistics, Monash University, Victoria, Australia\nInfectious Disease Dynamics and Interventions Group, School of Population Health, University of New South Wales, New South Wales, Australia\nInfectious Disease Epidemiology and Modelling, National Centre for Epidemiology and Population Health, Australian National University, Canberra, Australia\nInfectious diseases modelling and Epidemiology Group, Australian Institute of Tropical Health and Medicine, James Cook University, Queensland, Australia\nAdelaide Data Science Centre, University of Adelaide, South Australia, Australia\nSchool of Mathematics and Statistics, University of Canterbury, New Zealand.\n\n\n\nContact Us\n\n\n\n\n\n\n\n\nFreya Shearer\nUniversity of Melbourne, Melbourne, VIC\nfreya.shearer [at] unimelb.edu.au\nNick Golding\nThe Kids Research Institute Australia, Perth, WA\nnick.golding [at] thekids.org.au\nJames Wood\nUniversity of New South Wales, Sydney, NSW\njames.wood [at] unsw.edu.au"
   }
 ]
