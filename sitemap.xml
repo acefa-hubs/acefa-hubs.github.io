@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://acefa-hubs.github.io/activities/decision-support.html</loc>
-    <lastmod>2025-03-21T00:45:15.871Z</lastmod>
+    <loc>https://acefa-hubs.github.io/index.html</loc>
+    <lastmod>2025-08-13T05:36:39.989Z</lastmod>
   </url>
   <url>
-    <loc>https://acefa-hubs.github.io/index.html</loc>
-    <lastmod>2025-03-21T00:45:15.877Z</lastmod>
+    <loc>https://acefa-hubs.github.io/activities/decision-support.html</loc>
+    <lastmod>2025-08-13T05:36:39.984Z</lastmod>
+  </url>
+  <url>
+    <loc>https://acefa-hubs.github.io/activities/methods-and-tools.html</loc>
+    <lastmod>2025-08-13T05:36:39.984Z</lastmod>
+  </url>
+  <url>
+    <loc>https://acefa-hubs.github.io/activities/engagement.html</loc>
+    <lastmod>2025-08-13T05:36:39.984Z</lastmod>
+  </url>
+  <url>
+    <loc>https://acefa-hubs.github.io/activities/data.html</loc>
+    <lastmod>2025-08-13T05:36:39.984Z</lastmod>
   </url>
   <url>
     <loc>https://acefa-hubs.github.io/about.html</loc>
-    <lastmod>2025-03-21T00:45:15.871Z</lastmod>
+    <lastmod>2025-08-13T05:36:39.983Z</lastmod>
   </url>
 </urlset>
