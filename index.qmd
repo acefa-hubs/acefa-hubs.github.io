@@ -6,15 +6,9 @@ css: homepage.css
 listing:
   contents: 
     - activities/decision-support.qmd
-    - title: "**Methods and Tools**"
-      description: "Advance methods and software tools for epidemic analysis."
-      image: images/vdarkblue-laptop-code.png
-    - title: "**Data**"
-      description: "Inform the design of surveillance studies to optimise data collection for public health action."
-      image: images/vdarkblue-clipboard.png
-    - title: "**Engagement**"
-      description: "Develop and maintain a community of practice among key stakeholders."
-      image: images/vdarkblue-users.png
+    - activities/methods-and-tools.qmd
+    - activities/data.qmd
+    - activities/engagement.qmd
   sort: false
   type: grid
   fields: [title, description, image]
