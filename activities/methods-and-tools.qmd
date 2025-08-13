@@ -1,0 +1,11 @@
+---
+title: "**Methods and Tools**"
+description: "Advance methods and software tools for epidemic analysis."
+title-block-banner: "#247aa7"
+title-block-banner-color: white
+image: ../images/vdarkblue-laptop-code.png
+toc: false
+sidebar: false
+---
+
+## Page coming soon

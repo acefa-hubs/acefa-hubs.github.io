@@ -28,7 +28,7 @@ ACEFA involves multiple academic research groups from across Australia and New Z
 +-----------------------------------------+---------------------------------------------------+--------------------------------------------+
 | **Freya Shearer** \                     | **Nick Golding** \                                | **James Wood** \                           |
 | University of Melbourne, Melbourne, VIC\| The Kids Research Institute Australia, Perth, WA \| University of New South Wales, Sydney, NSW\|
-| freya.shearer [at] unimelb.edu.au       | nick.golding [at] thekids.org.au                  | james.wood [at] unsw.edu.au                | 
+| freya.shearer@unimelb.edu.au       | nick.golding@thekids.org.au                  | james.wood@unsw.edu.au                | 
 +-----------------------------------------+---------------------------------------------------+--------------------------------------------+
 
 

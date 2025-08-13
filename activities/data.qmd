@@ -1,0 +1,11 @@
+---
+title: "**Data**"
+description: "Inform the design of surveillance studies to optimise data collection for public health action."
+title-block-banner: "#247aa7"
+title-block-banner-color: white
+image: ../images/vdarkblue-clipboard.png
+toc: false
+sidebar: false
+---
+
+## Page coming soon
