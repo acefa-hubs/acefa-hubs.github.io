@@ -2,7 +2,10 @@
   {
     "listing": "/index.html",
     "items": [
-      "/activities/decision-support.html"
+      "/activities/decision-support.html",
+      "/activities/methods-and-tools.html",
+      "/activities/data.html",
+      "/activities/engagement.html"
     ]
   }
 ]
