@@ -1,7 +1,7 @@
 ---
 title: "**Methods and Tools**"
 description: "Advance methods and software tools for epidemic analysis."
-title-block-banner: "#247aa7"
+title-block-banner: "#262261"
 title-block-banner-color: white
 image: ../images/vdarkblue-laptop-code.png
 toc: false
@@ -9,3 +9,35 @@ sidebar: false
 ---
 
 ## Page coming soon
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+
+![](/images/Logos.jpg){fig-alt="ACEFA team logos" width=100% }

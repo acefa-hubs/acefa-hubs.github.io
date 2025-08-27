@@ -50,7 +50,7 @@ Working to support the timely, effective response to epidemic diseases in Austra
 <br> 
 <br> 
 
-<img src="images/EXAMPLE3.png" width="100%" />
+<img src="images/epi_curve_forecast.gif" width="100%" />
 
 
 :::
