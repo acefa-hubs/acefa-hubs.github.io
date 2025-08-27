@@ -1,6 +1,6 @@
 ---
 title: "About"
-title-block-banner: "#3f78a3"
+title-block-banner: "#262261"
 title-block-banner-color: white
 toc: false
 sidebar: false
@@ -21,14 +21,17 @@ ACEFA involves multiple academic research groups from across Australia and New Z
 * [Infectious diseases modelling and Epidemiology Group](https://www.aithm.jcu.edu.au/professor-emma-mcbryde/), Australian Institute of Tropical Health and Medicine, James Cook University, Queensland, Australia
 * [Adelaide Data Science Centre](https://set.adelaide.edu.au/adelaide-data-science-centre/), University of Adelaide, South Australia, Australia
 * [School of Mathematics and Statistics](https://www.canterbury.ac.nz/study/academic-study/engineering/schools-and-departments-engineering-forestry-product-design/school-of-mathematics-and-statistics), University of Canterbury, New Zealand.
- 
+
+![](/images/ACEFAlaunchphoto.jpg){fig-alt="ACEFA team at launch event" width=80% fig-align="center"}
+
 
 ### Contact Us
 
-+------------------------------------------+----------------------------------------------------+---------------------------------------------+
-| **Freya Shearer** \                      | **Nick Golding** \                                 | **James Wood** \                            |
-| University of Melbourne, Melbourne, VIC\ | The Kids Research Institute Australia, Perth, WA \ | University of New South Wales, Sydney, NSW\ |
-| freya.shearer@unimelb.edu.au \           | nick.golding@thekids.org.au \                      | james.wood@unsw.edu.au \                    | 
-+------------------------------------------+----------------------------------------------------+---------------------------------------------+
++------------------------------------------+----------------------------------------------------+---------------------------------------------+ 
+| **Freya Shearer** \                      | **Nick Golding** \                                 | **James Wood** \                            | 
+| University of Melbourne, Melbourne, VIC\ | The Kids Research Institute Australia, Perth, WA\  | University of New South Wales, Sydney, NSW\ | 
+| freya.shearer@unimelb.edu.au\            | nick.golding@thekids.org.au\                       | james.wood@unsw.edu.au\                     | 
++------------------------------------------+----------------------------------------------------+---------------------------------------------+ 
 
 
+![](/images/Logos.jpg){fig-alt="ACEFA team logos" width=100% }

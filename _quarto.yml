@@ -10,14 +10,20 @@ website:
       - text: "Activities"
         menu:
           - activities/decision-support.qmd
+          - activities/methods-and-tools.qmd
+          - activities/data.qmd
+          - activities/engagement.qmd
       - about.qmd
       - icon: github
         href: https://github.com/acefa-hubs
-  page-footer:
-    center: |
-      © ACEFA, 2024 <br>
+  page-footer: |
+      © ACEFA, 2024 <br> 
+      Australia-Aoteroa Consortium of Epidemic Forecasting and Analytics (ACEFA) is a National Health and Medical Research Council of Australia Centre of Research Excellence (NHMRC; grant no. 2035303).  <br>  <br> 
       In the spirit of reconciliation ACEFA acknowledges the Traditional Custodians throughout Australia and Aotearoa and their connections to land, waters, and community. We pay our respect to their Elders past and present and extend that respect to all Aboriginal, Torres Strait Islander and Māori peoples.
 
+    
+    
+    
 # don't re-execute code unless that code has changed
 execute:
   freeze: auto
