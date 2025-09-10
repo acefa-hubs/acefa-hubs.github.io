@@ -22,12 +22,23 @@ The project has the following aims:
 
 3. To assess forecast utility and public health value through both statistical performance evaluation and engagement with public health partners. 
 
-<br> 
-<br> 
+
+![](/images/Photo_Alec_presentation_2.jpg){fig-alt="Dr Alec Henderson presenting trends in Influenza, RSV, and SARS-CoV-2 cases at the Communicable Diseases Immunisation Conference in 2025" width=70% fig-align="center"}
+
+
+<p style="text-align: center;color: grey">*Dr Alec Henderson presenting at the Communicable Diseases and Immunisation Conference in 2025*</p>
+
+
 
 ## Scenario Hub modelling for 2025-26
 
-ACEFA launched the Australia-Aotearoa Scenario Modelling Hub in April 2025 and through 2025 will coordinate a pilot Scenario Modelling Exercise, in which multiple research groups within the ACEFA network independently model the future population-level health impact of a school-based influenza immunisation program. Throughout the year, groups will collaborate on data interpretation, parameterisation, and scenario design. Groups will independently produce the same set of projections to allow the comparison and synthesis of outputs across models. This will be the first multi-model scenario analysis exercise conducted in Australia for infectious disease policy.
+Decision-makers should have access to the highest quality decision support for infectious disease threats. In 2024, ACEFA established the Australia–Aotearoa Forecasting and Scenario Modelling Hubs to support the delivery of coordinated and timely epidemic analyses to public health decision-makers.
+
+Nested within ACEFA’s Winter Situational Assessment Program, the Forecasting Hub provides real-time forecasts of disease burden to support situational awareness and response decisions over short-term horizons.
+
+The Scenario Modelling Hub produces multi-model projections of disease burden under alternate intervention scenarios to support medium- to long-term disease management strategies, including immunisation programs.
+
+<br>
 
 +---------------------------------------------+---------------------------------------------+------------------------------------------+ 
 | **Alexandra Hogan** \                       | **Tiffany Leung and Isaac Stopard** \       | **Eliran Boksenbojm** \                  | 
@@ -36,7 +47,6 @@ ACEFA launched the Australia-Aotearoa Scenario Modelling Hub in April 2025 and t
 | alexandra.hogan@unsw.edu.au\                | \                                           | \                                        | 
 +---------------------------------------------+---------------------------------------------+------------------------------------------+ 
 
-<br> 
-<br> 
+<br>
 
 ![](/images/Logos.jpg){fig-alt="ACEFA team logos" width=100% }

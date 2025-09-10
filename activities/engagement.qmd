@@ -8,7 +8,8 @@ toc: false
 sidebar: false
 ---
 
-## Page coming soon
+Enhancing collaboration at the science-policy interface to support state, national, regional, and global public health decision-making is a core goal for ACEFA. ACEFA operates in consultation with public health partners and is establishing processes for wider collaboration and participation, at state-level, nationally, and internationally.
+
 
 <br> 
 <br> 
@@ -21,24 +22,6 @@ sidebar: false
 <br> 
 <br> 
 <br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
+
 
 ![](/images/Logos.jpg){fig-alt="ACEFA team logos" width=100% }

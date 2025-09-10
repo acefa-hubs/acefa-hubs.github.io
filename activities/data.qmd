@@ -8,7 +8,9 @@ toc: false
 sidebar: false
 ---
 
-## Page coming soon
+The participation of modellers/analysts (who specialise in epidemic dynamics and prediction) in surveillance planning is important to ensure that the most impactful data are collected for epidemic monitoring and response.
+
+ACEFA is working to optimise the design of disease surveillance to maximise the information gained from public health data while minimising surveillance resources.
 
 <br> 
 <br> 
@@ -21,25 +23,7 @@ sidebar: false
 <br> 
 <br> 
 <br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
+
 
 
 ![](/images/Logos.jpg){fig-alt="ACEFA team logos" width=100% }
