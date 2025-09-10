@@ -24,6 +24,8 @@ ACEFA involves multiple academic research groups from across Australia and New Z
 
 ![](/images/ACEFAlaunchphoto.jpg){fig-alt="ACEFA team at launch event" width=80% fig-align="center"}
 
+<p style="text-align: center;color: grey">*Launch of ACEFA in 2025*</p>
+
 
 ### Contact Us
 
@@ -33,5 +35,7 @@ ACEFA involves multiple academic research groups from across Australia and New Z
 | freya.shearer@unimelb.edu.au\            | nick.golding@thekids.org.au\                       | james.wood@unsw.edu.au\                     | 
 +------------------------------------------+----------------------------------------------------+---------------------------------------------+ 
 
+<br> 
+<br> 
 
 ![](/images/Logos.jpg){fig-alt="ACEFA team logos" width=100% }

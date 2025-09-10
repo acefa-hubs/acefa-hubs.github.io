@@ -8,36 +8,24 @@ toc: false
 sidebar: false
 ---
 
-## Page coming soon
+Achieving public health goals and addressing emerging diseases requires advanced epidemic analytic methods.
+
+ACEFA works to advance methods and software tools for epidemic analysis, forecasting, and scenario modelling, drawing on multiple data sources. We have established a Community of Practice to support the development and application of new methods, open-source research software tools, and knowledge for:
+
+- Understanding the state of an epidemic and predicting its future course, including the potential for public health measures to reduce disease burden. 
+
+- Risk assessment and early characterisation of emerging and resurgent epidemic disease threats.  
+
+- Optimal study designs and indicators for infectious disease surveillance.  
+
+
+![](/images/Photo_Oliver_presentation_2.jpg){fig-alt="Dr Oliver Eales presenting at the Communicable Diseases and Immunisation Conference in 2025" width=40% fig-align="center"}
+
+
+<p style="text-align: center;color: grey">*Dr Oliver Eales presenting at the Communicable Diseases and Immunisation Conference in 2025*</p>
+
 <br> 
 <br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
+
 
 ![](/images/Logos.jpg){fig-alt="ACEFA team logos" width=100% }
