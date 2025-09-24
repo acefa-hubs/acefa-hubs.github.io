@@ -8,22 +8,38 @@ toc: false
 sidebar: false
 ---
 
-Enhancing collaboration at the science-policy interface to support state, national, regional, and global public health decision-making is a core goal for ACEFA. ACEFA operates in consultation with public health partners and is establishing processes for wider collaboration and participation, at state-level, nationally, and internationally.
+Enhancing collaboration at the science-policy interface to support state, national, and regional public health decision-making is a core goal for ACEFA. 
+
+ACEFA is establishing processes for wider collaboration and participation, particularly through our Winter Situational Assessment Program (including the Forecasting Hub) and Scenario Modelling Hub. 
+
+
+
+<br> 
+<br> 
+
+![](/images/Photo_Alec_presentation_2.jpg){fig-alt="Dr Alec Henderson presenting trends in Influenza, RSV, and SARS-CoV-2 cases at the Communicable Diseases Immunisation Conference in 2025" width=70% fig-align="center"}
+
+<p style="text-align: center;color: grey">*Dr Alec Henderson presenting at the Communicable Diseases and Immunisation Conference in 2025*</p>
+
+<br> 
+<br> 
+
+
+![](/images/Photo_Saras_poster_2.jpg){fig-alt="Dr Saras Windecker presenting on communicating forecast and scenario projections for decision-making at the Communicable Diseases and Immunisation Conference in 2025" width=40% fig-align="center"}
+
+<p style="text-align: center;color: grey">*Dr Saras Windecker presenting at the Communicable Diseases and Immunisation Conference in 2025*</p>
+
+
+<br> 
+<br>
+
+![](/images/Photo_Oliver_presentation_2.jpg){fig-alt="Dr Oliver Eales presenting trends in Influenza cases by sub-types at the Communicable Diseases Immunisation Conference in 2025" width=40% fig-align="center"}
+
+<p style="text-align: center;color: grey">*Dr Oliver Eales presenting at the Communicable Diseases and Immunisation Conference in 2025*</p>
 
 
 <br> 
 <br> 
-<br> 
-
-<p align="center">
-  <img src="/images/Photo_Saras_poster_2.jpg" alt="Dr Saras Windecker presenting on communicating forecast and scenario projections for decision-making at the Communicable Diseases and Immunisation Conference in 2025" width="30%" style="margin-right:10px;">
-  <img src="/images/Diagram_1.PNG" alt="Cyclic flow diagram with six boxes decribing the ACEFA processes of identifying gaps, developing scenarios, implement insights, and incorporate more data, which then all centre around engaging with public health partners" width="60%">
-</p>
-<p style="text-align: center;color: grey">*Left: Dr Saras Windecker presenting at the Communicable Diseases and Immunisation Conference in 2025. Right: ACEFA processes centre around engaging with public health partners.*</p>
-<br> 
-<br> 
-<br> 
-
 
 
 ![](/images/Logos.jpg){fig-alt="ACEFA team logos" width=100% }
