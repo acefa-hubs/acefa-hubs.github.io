@@ -22,17 +22,29 @@ The project has the following aims:
 
 3. To assess forecast utility and public health value through both statistical performance evaluation and engagement with public health partners. 
 
+<br>
+<br>
+
+<p align="center">
+  <img src="/images/report_Aus_3.PNG" alt="The cover of a pdf report entitled Australian winter respiratory pathogen epidemic analysis. Report number 19 2025 19th of September 2025. The word ACEFA is in blue text in the top right andthe ACEFA logo is in the top left." width="40%" style="margin-right:10px;">
+  <img src="/images/report_NZ_3.PNG" alt="The cover of a pdf report entitled New Zealand winter respiratory pathogen epidemic analysis. Report number 14 2025 26th of September 2025. The word ACEFA is in blue text in the top right andthe ACEFA logo is in the top left." width="40%">
+</p>
+<p style="text-align: center;color: grey">*Cover page of weekly reports provided to public health partners in Australia and New Zealand during winter months.*</p>
+
+<br>
+<br>
+
 
 +---------------------------------------------+----------------------------------------------+-------------------------------------------+
-| **Oliver Eales** \                          | **Alexandra Hogan** \                        | **Rob Moss** \                            |
+| **Dr Oliver Eales** \                       | **Dr Alexandra Hogan** \                     | **Dr Rob Moss** \                         |
 | Analyst and Reporting Lead \                | Forecaster \                                 | Forecaster \                              |
 | University of Melbourne, Melbourne, VIC \   | University of New South Wales, Sydney, NSW \ | University of Melbourne, Melbourne, VIC \ |
 +---------------------------------------------+----------------------------------------------+-------------------------------------------+
-| **Adeshina Adekunle** \                     | **Michael Plank** \                          | **Mitchell O’Hara-Wild** \                |
+| **Dr Adeshina Adekunle** \                  | **Prof Michael Plank** \                     | **Mitchell O’Hara-Wild** \                |
 | Forecaster \                                | Forecaster \                                 | Forecaster and Forecast Evaluation Lead \ |
 | Department of Defense \                     | University of Canterbury, New Zealand \      | Monash University, Melbourne, VIC \       |
 +---------------------------------------------+----------------------------------------------+-------------------------------------------+
-| **Kate Senior** \                           | **Ruarai Tobin** \                           |                                           |
+| **Dr Kate Senior** \                        | **Ruarai Tobin** \                           |                                           |
 | Hub Data Lead \                             | Hub Software Lead \                          |                                           |
 | University of Melbourne, Melbourne, VIC \   | University of Melbourne, Melbourne, VIC \    |                                           |
 +---------------------------------------------+----------------------------------------------+-------------------------------------------+
@@ -65,12 +77,15 @@ Modelling teams are investigating the potential impact of six LAIV scenarios (B�
 
 
 
-![](/images/Scenarios_TiffanyLeung.png){fig-alt="Figure showing the seven scenarios where six are investigating the potential impact of LAIV at different levels of vaccine effectiveness and covarage across two age groups. These six scenarios are then compared to a baseline status quo scenario." width=70% fig-align="center"}
-<p style="text-align: center;color: grey">*Figure courtesy of Tiffany Leung.*</p>
+<p align="center">
+![](/images/Scenarios_TiffanyLeung.png){fig-alt="Figure showing the seven scenarios where six are investigating the potential impact of LAIV at different levels of vaccine effectiveness and covarage across two age groups. These six scenarios are then compared to a baseline status quo scenario." width=70%}
+</p>
+
+<p style="text-align: center;color: grey">*Figure courtesy of Dr Tiffany Leung.*</p>
 
 
 +---------------------------------------------+---------------------------------------------+------------------------------------------+ 
-| **Alexandra Hogan** \                       | **Tiffany Leung and Isaac Stopard** \       | **Eliran Boksenbojm** \                  | 
+| **Dr Alexandra Hogan** \                    | **Dr Tiffany Leung and Isaac Stopard** \    | **Dr Eliran Boksenbojm** \               | 
 | Co-lead                                   \ | Researchers\                                | Researcher\                              | 
 | University of New South Wales, Sydney, NSW\ | University of New South Wales, Sydney, NSW\ | University of Melbourne, Melbourne, VIC\ | 
 | alexandra.hogan@unsw.edu.au\                | \                                           | \                                        | 
