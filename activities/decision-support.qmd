@@ -25,8 +25,8 @@ The project has the following aims:
 <br>
 <br>
 
+![](/images/Report_Aus_NZ.jpg){fig-alt="The cover of two pdf reports side by side. The report on the right is entitled Australian winter respiratory pathogen epidemic analysis. Report number 19 2025 19th of September 2025. The report on the left is entitled New Zealand winter respiratory pathogen epidemic analysis. Report number 14 2025 26th of September 2025. The word ACEFA is in blue text in the top right and the ACEFA logo is in the top left." width=90% fig-align="center"}
 
-![](/images/report_Aus_NZ.PNG){fig-alt="The cover of two pdf reports side by side. The report on the righ tis entitled Australian winter respiratory pathogen epidemic analysis. Report number 19 2025 19th of September 2025. The report on the left is entitled New Zealand winter respiratory pathogen epidemic analysis. Report number 14 2025 26th of September 2025. The word ACEFA is in blue text in the top right andthe ACEFA logo is in the top left." width=90% fig-align="center"}
 <p style="text-align: center;color: grey">*Cover page of weekly reports provided to public health partners in Australia and New Zealand during winter months.*</p>
 
 <br>
