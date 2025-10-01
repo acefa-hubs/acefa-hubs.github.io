@@ -10,6 +10,8 @@ website:
       - text: "Activities"
         menu:
           - activities/decision-support.qmd
+          - activities/winter-assessment.qmd
+          - activities/scenario-modelling.qmd
           - activities/methods-and-tools.qmd
           - activities/data.qmd
           - activities/engagement.qmd

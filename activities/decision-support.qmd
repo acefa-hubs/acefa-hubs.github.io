@@ -8,86 +8,21 @@ toc: false
 sidebar: false
 ---
 
-## Annual Winter Situational Assessment Program 
+ACEFA has two active programs related to decision support:
 
-The clinical burden from acute viral respiratory infections during winter months will often be the result of multiple concurrent epidemics. 
-In temperate regions, many countries experienced overlapping epidemics of influenza, RSV and COVID-19, exerting unusual pressure on ICU capacity during winter months. 
-Short-term forecasting of epidemic activity can help to enable rapid understanding of the status of concurrent epidemics and preparation for any increased impact on healthcare services.
+[Annual Winter Situational Assessment Program 2025](winter-assessment.qmd) – predicting past, current, and short-term future trends in epidemic dynamics to support immediate public health responses. 
 
-The project has the following aims:
-
-1. To generate real-time epidemic analysis, including forecasts, of COVID-19, influenza, and RSV during winter to support public health risk assessment and response.
-
-2. To develop enhanced methods for epidemic situational assessment of viral respiratory pathogens.
-
-3. To assess forecast utility and public health value through both statistical performance evaluation and engagement with public health partners. 
-
-<br>
-<br>
-
-![](/images/Report_Aus_NZ.jpg){fig-alt="The cover of two pdf reports side by side. The report on the right is entitled Australian winter respiratory pathogen epidemic analysis. Report number 19 2025 19th of September 2025. The report on the left is entitled New Zealand winter respiratory pathogen epidemic analysis. Report number 14 2025 26th of September 2025. The word ACEFA is in blue text in the top right and the ACEFA logo is in the top left." width=90% fig-align="center"}
-
-<p style="text-align: center;color: grey">*Cover page of weekly reports provided to public health partners in Australia and New Zealand during winter months.*</p>
-
-<br>
-<br>
-
-+---------------------------------------------+----------------------------------------------+-------------------------------------------+
-| **Dr Oliver Eales** \                       | **Dr Alexandra Hogan** \                     | **Dr Rob Moss** \                         |
-| Analyst and Reporting Lead \                | Forecaster \                                 | Forecaster \                              |
-| University of Melbourne, Melbourne, VIC \   | University of New South Wales, Sydney, NSW \ | University of Melbourne, Melbourne, VIC \ |
-+---------------------------------------------+----------------------------------------------+-------------------------------------------+
-| **Dr Adeshina Adekunle** \                  | **Prof Michael Plank** \                     | **Mitchell O’Hara-Wild** \                |
-| Forecaster \                                | Forecaster \                                 | Forecaster and Forecast Evaluation Lead \ |
-| Department of Defense \                     | University of Canterbury, New Zealand \      | Monash University, Melbourne, VIC \       |
-+---------------------------------------------+----------------------------------------------+-------------------------------------------+
-| **Dr Kate Senior** \                        | **Ruarai Tobin** \                           | **Alys Young**\                           |
-| Hub Data Lead \                             | Hub Software Lead \                          | Hub Research Assistant \                  |
-| University of Melbourne, Melbourne, VIC \   | University of Melbourne, Melbourne, VIC \    | University of Melbourne, Melbourne, VIC \ |
-+---------------------------------------------+----------------------------------------------+-------------------------------------------+
+[Scenario Modelling Hub 2025](scenario-modelling.qmd) – projecting the impact of different intervention scenarios over multi-month or multi-year time horizons to support medium- to long-term public health decisions.
 
 
 <br>
 <br>
 
+![](/images/Definitions_4.png){fig-alt="Diagram of surveillance data with a forecasted epidimiological curve for the period after the data is avaliable and three longer-term predictions representing three scenarios." width=90% fig-align="center"}
 
-## Scenario Hub modelling
+<p style="text-align: center;color: grey">*© ACEFA 2025*</p>
 
-The purpose of the Scenario Modelling Hub is to provide robust model-based evidence to support medium to long-term infectious disease management decisions.
-
-Multiple research groups within the ACEFA network independently model the future health impact of different intervention scenarios. Groups produce the same set of projections to allow the comparison and synthesis of outputs across models.
-
-## Scenario Modelling Pilot Exercise 2025–26
-
-Australian and New Zealand public health partners are interested in assessing the potential population impact of a school-based seasonal influenza immunisation program, using an intranasally delivered live-attenuated influenza vaccine (LAIV).
-
-**Modelling question:** What are the potential health impacts of a school-based live attenuated influenza vaccination (LAIV) program?
-
-**Goals of the pilot exercise:** 
-
-1.	Provide evidence to support decision-making on the implementation of a school-based LAIV program.  
-
-2.	Establish processes and relationships for multi-model scenario modelling and comparison exercises in Australia and New Zealand, enhancing epidemic preparedness and response.  
-
-
-Modelling teams are investigating the potential impact of six LAIV scenarios (B–G) compared to a baseline scenario (A, standard inactivated influenza vaccine administered to all ages).
-
-
-
-<p align="center">
-![](/images/Scenarios_TiffanyLeung.png){fig-alt="Figure showing the seven scenarios where six are investigating the potential impact of LAIV at different levels of vaccine effectiveness and covarage across two age groups. These six scenarios are then compared to a baseline status quo scenario." width=70%}
-</p>
-
-<p style="text-align: center;color: grey">*Figure courtesy of Dr Tiffany Leung.*</p>
-
-
-+---------------------------------------------+---------------------------------------------+------------------------------------------+ 
-| **Dr Alexandra Hogan** \                    | **Dr Tiffany Leung and Isaac Stopard** \    | **Dr Eliran Boksenbojm** \               | 
-| Co-lead                                   \ | Researchers\                                | Researcher\                              | 
-| University of New South Wales, Sydney, NSW\ | University of New South Wales, Sydney, NSW\ | University of Melbourne, Melbourne, VIC\ | 
-| alexandra.hogan@unsw.edu.au\                | \                                           | \                                        | 
-+---------------------------------------------+---------------------------------------------+------------------------------------------+ 
-
+<br>
 <br>
 
 ![](/images/Logos.jpg){fig-alt="ACEFA team logos" width=100% }
