@@ -6,7 +6,7 @@ toc: false
 sidebar: false
 ---
 
-ACEFA aims to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting. Our work builds on a national seasonal influenza forecasting program (2014–19) and [COVID-19 situational assessment consortium (2020–23)](https://doi.org/10.26188/24845328.v1).
+ACEFA aims to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting. Our work builds on a national seasonal influenza forecasting program (2014–19) and [COVID-19 situational assessment consortium (2020–23)](https://doi.org/10.26188/24845328.v1){.external target="_blank"}.
 
 ### Team
 
@@ -27,13 +27,32 @@ ACEFA involves multiple academic research groups from across Australia and New Z
 <p style="text-align: center;color: grey">*Launch of ACEFA in 2025*</p>
 
 
+### Executives
+
++------------------------------------------+---------------------------------------------------+------------------------------------------+ 
+| **A/Prof Freya Shearer** \               | **Prof Nick Golding** \                           | **Prof Emma McBryde** \                  | 
+| University of Melbourne, Melbourne, VIC\ | The Kids Research Institute Australia, Perth, WA\ | James Cook University, QLD \             | 
+| freya.shearer@unimelb.edu.au \           | \                                                 | \                                        | 
++------------------------------------------+---------------------------------------------------+------------------------------------------+ 
+| **Prof Michael Plank** \                 | **Prof James Wood** \                             | **Prof James McCaw** \                   | 
+| University of Canterbury, New Zealand\   |University of New South Wales, Sydney, NSW \       | University of Melbourne, Melbourne, VIC\ | 
++------------------------------------------+---------------------------------------------------+------------------------------------------+ 
+| **Prof. Rob Hyndman** \                  | **Dr Alexandra Hogan** \                          | **Dr Peter Dawson** \                    |
+| Monash University, Melbourne, VIC \      | University of New South Wales, Sydney, NSW\       | Department of Defence \                  |
++------------------------------------------+---------------------------------------------------+------------------------------------------+ 
+| **Dr David Price** \                     | **Prof Kathryn Glass** \                          | **Dr Andrew Black** \                    | 
+| University of Melbourne, Melbourne, VIC\ | Australian National University, Canberra, ACT\    |  University of Adelaide, Adelaide, SA\   | 
++------------------------------------------+---------------------------------------------------+------------------------------------------+ 
+
+
 ### Contact Us
 
-+------------------------------------------+----------------------------------------------------+---------------------------------------------+ 
-| **A/Prof Freya Shearer** \               | **Prof Nick Golding** \                            | **Prof James Wood** \                       | 
-| University of Melbourne, Melbourne, VIC\ | The Kids Research Institute Australia, Perth, WA\  | University of New South Wales, Sydney, NSW\ | 
-| freya.shearer@unimelb.edu.au\            | nick.golding@thekids.org.au\                       | james.wood@unsw.edu.au\                     | 
-+------------------------------------------+----------------------------------------------------+---------------------------------------------+ 
++------------------------------------------+ 
+| **Emily Kay** \                          |
+| Research manager \                       | 
+| University of Melbourne, Melbourne, VIC\ | 
+| emily.kay@unimelb.edu.au\                |
++------------------------------------------+
 
 <br> 
 <br> 

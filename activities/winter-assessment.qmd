@@ -1,0 +1,56 @@
+---
+title: "**Winter Situational Assessment**"
+description: "Generate and share real-time epidemic analysis, including forecasts, of COVID-19, influenza, and RSV during the winter of 2025 with decision-makers and the public in Australia and New Zealand."
+title-block-banner: "#262261"
+title-block-banner-color: white
+image: ../images/vdarkblue-route.png
+toc: false
+sidebar: false
+---
+
+## Annual Winter Situational Assessment Program 
+
+The clinical burden from acute viral respiratory infections during winter months will often be the result of multiple concurrent epidemics. 
+In temperate regions, many countries experienced overlapping epidemics of influenza, RSV and COVID-19, exerting unusual pressure on ICU capacity during winter months. 
+Short-term forecasting of epidemic activity can help to enable rapid understanding of the status of concurrent epidemics and preparation for any increased impact on healthcare services.
+
+The project has the following aims:
+
+1. To generate real-time epidemic analysis, including forecasts, of COVID-19, influenza, and RSV during winter to support public health risk assessment and response.
+
+2. To develop enhanced methods for epidemic situational assessment of viral respiratory pathogens.
+
+3. To assess forecast utility and public health value through both statistical performance evaluation and engagement with public health partners. 
+
+<br>
+<br>
+
+![](/images/Report_Aus_NZ.jpg){fig-alt="The cover of two pdf reports side by side. The report on the right is entitled Australian winter respiratory pathogen epidemic analysis. Report number 19 2025 19th of September 2025. The report on the left is entitled New Zealand winter respiratory pathogen epidemic analysis. Report number 14 2025 26th of September 2025. The word ACEFA is in blue text in the top right and the ACEFA logo is in the top left." width=90% fig-align="center"}
+
+<p style="text-align: center;color: grey">*Cover page of weekly reports provided to public health partners in Australia and New Zealand during winter months.*</p>
+
+<br>
+<br>
+
++---------------------------------------------+----------------------------------------------+-------------------------------------------+
+| **Dr Oliver Eales** \                       | **Dr Alec Henderson** \                      | **Dr Rob Moss** \                         |
+| Analyst and Reporting Lead \                | Forecaster \                                 | Forecaster \                              |
+| University of Melbourne, Melbourne, VIC \   | University of Queensland, Brisbane, QLD \    | University of Melbourne, Melbourne, VIC \ |
+| oliver.eales@unimelb.edu.au\                | \                                            | \                                         | 
++---------------------------------------------+----------------------------------------------+-------------------------------------------+
+| **Dr Adeshina Adekunle** \                  | **Prof Michael Plank** \                     | **Mitchell O’Hara-Wild** \                |
+| Forecaster \                                | Forecaster \                                 | Forecaster and Forecast Evaluation Lead \ |
+| Department of Defence \                     | University of Canterbury, New Zealand \      | Monash University, Melbourne, VIC \       |
++---------------------------------------------+----------------------------------------------+-------------------------------------------+
+| **Dr Kate Senior** \                        | **Ruarai Tobin** \                           | **Alys Young**\                           |
+| Hub Data Lead \                             | Hub Software Lead \                          | Hub Research Assistant \                  |
+| University of Melbourne, Melbourne, VIC \   | University of Melbourne, Melbourne, VIC \    | University of Melbourne, Melbourne, VIC \ |
++---------------------------------------------+----------------------------------------------+-------------------------------------------+
+
+
+<br>
+<br>
+
+<br>
+
+![](/images/Logos.jpg){fig-alt="ACEFA team logos" width=100% }

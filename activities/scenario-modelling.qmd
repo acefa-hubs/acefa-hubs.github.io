@@ -1,0 +1,45 @@
+---
+title: "**Scenario modelling**"
+description: "	Provide evidence to support decision-making on the implementation of vaccine interventions."
+title-block-banner: "#262261"
+title-block-banner-color: white
+image: ../images/vdarkblue-route.png
+toc: false
+sidebar: false
+---
+
+
+## Scenario Modelling Pilot Exercise 2025–26
+
+Australian and New Zealand public health partners are interested in assessing the potential population impact of a school-based seasonal influenza immunisation program, using an intranasally delivered live-attenuated influenza vaccine (LAIV).
+
+**Modelling question:** What are the potential health impacts of a school-based live attenuated influenza vaccination (LAIV) program?
+
+**Goals of the pilot exercise:** 
+
+1.	Provide evidence to support decision-making on the implementation of a school-based LAIV program.  
+
+2.	Establish processes and relationships for multi-model scenario modelling and comparison exercises in Australia and New Zealand, enhancing epidemic preparedness and response.  
+
+
+Modelling teams are investigating the potential impact of six LAIV scenarios (B–G) compared to a baseline scenario (A, standard inactivated influenza vaccine administered to all ages).
+
+
+
+<p align="center">
+![](/images/Scenarios_TiffanyLeung.png){fig-alt="Figure showing the seven scenarios where six are investigating the potential impact of LAIV at different levels of vaccine effectiveness and covarage across two age groups. These six scenarios are then compared to a baseline status quo scenario." width=70%}
+</p>
+
+<p style="text-align: center;color: grey">*Figure courtesy of Dr Tiffany Leung.*</p>
+
+
++---------------------------------------------+---------------------------------------------+------------------------------------------+ 
+| **Dr Alexandra Hogan** \                    | **Dr Tiffany Leung and Isaac Stopard** \    | **Dr Eliran Boksenbojm** \               | 
+| Co-lead                                   \ | Researchers\                                | Researcher\                              | 
+| University of New South Wales, Sydney, NSW\ | University of New South Wales, Sydney, NSW\ | University of Melbourne, Melbourne, VIC\ | 
+| alexandra.hogan@unsw.edu.au\                | \                                           | \                                        | 
++---------------------------------------------+---------------------------------------------+------------------------------------------+ 
+
+<br>
+
+![](/images/Logos.jpg){fig-alt="ACEFA team logos" width=100% }
