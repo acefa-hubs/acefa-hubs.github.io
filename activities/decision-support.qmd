@@ -44,9 +44,9 @@ The project has the following aims:
 | Forecaster \                                | Forecaster \                                 | Forecaster and Forecast Evaluation Lead \ |
 | Department of Defense \                     | University of Canterbury, New Zealand \      | Monash University, Melbourne, VIC \       |
 +---------------------------------------------+----------------------------------------------+-------------------------------------------+
-| **Dr Kate Senior** \                        | **Ruarai Tobin** \                           |                                           |
-| Hub Data Lead \                             | Hub Software Lead \                          |                                           |
-| University of Melbourne, Melbourne, VIC \   | University of Melbourne, Melbourne, VIC \    |                                           |
+| **Dr Kate Senior** \                        | **Ruarai Tobin** \                           | **Alys Young**\                           |
+| Hub Data Lead \                             | Hub Software Lead \                          | Hub Research Assistant                    |
+| University of Melbourne, Melbourne, VIC \   | University of Melbourne, Melbourne, VIC \    | University of Melbourne, Melbourne, VIC \ |
 +---------------------------------------------+----------------------------------------------+-------------------------------------------+
 
 
