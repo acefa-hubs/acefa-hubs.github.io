@@ -1,6 +1,6 @@
 ---
-title: "**Scenario modelling**"
-description: "	Provide evidence to support decision-making on the implementation of vaccine interventions."
+title: "**Scenario modelling hub**"
+description: "Generate multi-model evidence to support decision-making on the implementation of public health interventions."
 title-block-banner: "#262261"
 title-block-banner-color: white
 image: ../images/vdarkblue-route.png
@@ -30,15 +30,25 @@ Modelling teams are investigating the potential impact of six LAIV scenarios (Bâ
 ![](/images/Scenarios_TiffanyLeung.png){fig-alt="Figure showing the seven scenarios where six are investigating the potential impact of LAIV at different levels of vaccine effectiveness and covarage across two age groups. These six scenarios are then compared to a baseline status quo scenario." width=70%}
 </p>
 
-<p style="text-align: center;color: grey">*Figure courtesy of Dr Tiffany Leung.*</p>
+<p style="text-align: center;color: grey">*Original figure courtesy of Dr Tiffany Leung.*</p>
 
+<br>
+<br>
 
-+---------------------------------------------+---------------------------------------------+------------------------------------------+ 
-| **Dr Alexandra Hogan** \                    | **Dr Tiffany Leung and Isaac Stopard** \    | **Dr Eliran Boksenbojm** \               | 
-| Co-lead                                   \ | Researchers\                                | Researcher\                              | 
-| University of New South Wales, Sydney, NSW\ | University of New South Wales, Sydney, NSW\ | University of Melbourne, Melbourne, VIC\ | 
-| alexandra.hogan@unsw.edu.au\                | \                                           | \                                        | 
-+---------------------------------------------+---------------------------------------------+------------------------------------------+ 
++---------------------------------------------+---------------------------------------------+---------------------------------------------+ 
+| **Dr Alexandra Hogan** \                    | **A/Prof Freya Shearer** \                  | \                                           | 
+| Co-lead                                   \ | Researcher\                                 | \                                           | 
+| University of New South Wales, Sydney, NSW\ | University of Melbourne, Melbourne, VIC\    | \                                           | 
+| alexandra.hogan@unsw.edu.au\                | freya.shearer@unimelb.edu.au \              | \                                           | 
++---------------------------------------------+---------------------------------------------+---------------------------------------------+ 
+| **Dr Eliran Boksenbojm** \                  | **Dr Tiffany Leung** \                      | **Isaac Stopard** \                         | 
+| Researcher                                \ | Researcher\                                 | Researcher\                                 | 
+| University of Melbourne, Melbourne, VIC  \  | University of New South Wales, Sydney, NSW\ | University of New South Wales, Sydney, NSW\ | 
++---------------------------------------------+---------------------------------------------+---------------------------------------------+ 
+| **Dr Oliver Eales** \                       | **Prof James Wood **  \                     | **Prof James McCaw** \                      |
+| Analyst and Reporting Lead \                | Researcher \                                | Researcher\                                 |
+| University of Melbourne, Melbourne, VIC \   | University of New South Wales, Sydney, NSW\ | University of Melbourne, Melbourne, VIC\    |
++---------------------------------------------+---------------------------------------------+---------------------------------------------+
 
 <br>
 

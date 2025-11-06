@@ -35,7 +35,7 @@ ACEFA involves multiple academic research groups from across Australia and New Z
 | freya.shearer@unimelb.edu.au \           | \                                                 | \                                        | 
 +------------------------------------------+---------------------------------------------------+------------------------------------------+ 
 | **Prof Michael Plank** \                 | **Prof James Wood** \                             | **Prof James McCaw** \                   | 
-| University of Canterbury, New Zealand\   |University of New South Wales, Sydney, NSW \       | University of Melbourne, Melbourne, VIC\ | 
+| University of Canterbury, New Zealand\   | University of New South Wales, Sydney, NSW \      | University of Melbourne, Melbourne, VIC\ | 
 +------------------------------------------+---------------------------------------------------+------------------------------------------+ 
 | **Prof. Rob Hyndman** \                  | **Dr Alexandra Hogan** \                          | **Dr Peter Dawson** \                    |
 | Monash University, Melbourne, VIC \      | University of New South Wales, Sydney, NSW\       | Department of Defence \                  |
