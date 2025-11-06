@@ -1,6 +1,6 @@
 ---
 title: "**Winter Situational Assessment**"
-description: "Generate and share real-time epidemic analysis, including forecasts, of COVID-19, influenza, and RSV during the winter of 2025 with decision-makers and the public in Australia and New Zealand."
+description: "Predict past, current, and short-term future trends in respiratory virus activity to support public health awareness and response."
 title-block-banner: "#262261"
 title-block-banner-color: white
 image: ../images/vdarkblue-route.png
@@ -16,7 +16,7 @@ Short-term forecasting of epidemic activity can help to enable rapid understandi
 
 The project has the following aims:
 
-1. To generate real-time epidemic analysis, including forecasts, of COVID-19, influenza, and RSV during winter to support public health risk assessment and response.
+1. To generate real-time epidemic analysis of COVID-19, influenza, and RSV in Australia and New Zealand.
 
 2. To develop enhanced methods for epidemic situational assessment of viral respiratory pathogens.
 
@@ -39,7 +39,7 @@ The project has the following aims:
 | oliver.eales@unimelb.edu.au\                | \                                            | \                                         | 
 +---------------------------------------------+----------------------------------------------+-------------------------------------------+
 | **Dr Adeshina Adekunle** \                  | **Prof Michael Plank** \                     | **Mitchell O’Hara-Wild** \                |
-| Forecaster \                                | Forecaster \                                 | Forecaster and Forecast Evaluation Lead \ |
+| Forecaster \                                | Forecaster \                                 | Forecast Evaluation Lead \                |
 | Department of Defence \                     | University of Canterbury, New Zealand \      | Monash University, Melbourne, VIC \       |
 +---------------------------------------------+----------------------------------------------+-------------------------------------------+
 | **Dr Kate Senior** \                        | **Ruarai Tobin** \                           | **Alys Young**\                           |
