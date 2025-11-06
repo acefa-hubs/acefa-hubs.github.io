@@ -22,7 +22,8 @@ website:
       © ACEFA, 2024 <br> 
       Australia-Aotearoa Consortium for Epidemic Forecasting and Analytics (ACEFA) is a National Health and Medical Research Council of Australia Centre of Research Excellence (NHMRC; grant no. 2035303).  <br>  <br> 
       In the spirit of reconciliation ACEFA acknowledges the Traditional Custodians throughout Australia and Aotearoa and their connections to land, waters, and community. We pay our respect to their Elders past and present and extend that respect to all Aboriginal, Torres Strait Islander and Māori peoples.
-
+resources:
+  - CNAME
     
     
     
