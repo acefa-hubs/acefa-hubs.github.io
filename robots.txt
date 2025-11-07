@@ -1,1 +1,1 @@
-Sitemap: https://acefa-hubs.github.io/sitemap.xml
+Sitemap: https://acefa-epi-analytics.org/sitemap.xml
