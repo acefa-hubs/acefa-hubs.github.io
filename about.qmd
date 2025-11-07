@@ -12,15 +12,15 @@ ACEFA aims to support the timely, effective response to epidemic diseases in Aus
 
 ACEFA involves multiple academic research groups from across Australia and New Zealand, including:
 
-* [Infectious Disease Dynamics Unit](https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/infectious-disease-dynamics), Centre for Epidemiology and Biostatistics Research, The University of Melbourne, Victoria, Australia
-* [Infectious Disease Ecology and Modelling Team](https://www.thekids.org.au/our-research/infectious-diseases/infectious-disease-ecology-and-modelling), The Kids Research Institute Australia, Western Australia, Australia
-* [Defence Science and Technology Group](https://www.dst.defence.gov.au/), Department of Defence, Australia 
-* [Department of Econometrics & Business Statistics](https://www.monash.edu/business/ebs/), Monash University, Victoria, Australia
-* [Infectious Disease Dynamics and Interventions Group](https://www.unsw.edu.au/medicine-health/our-schools/population-health/research/research-programs-projects/infectious-disease-dynamics-and-interventions), School of Population Health, University of New South Wales, New South Wales, Australia
-* [Infectious Disease Epidemiology and Modelling](https://nceph.anu.edu.au/research/groups/infectious-disease-epidemiology-and-modelling), National Centre for Epidemiology and Population Health, Australian National University, Canberra, Australia
-* [Infectious diseases modelling and Epidemiology Group](https://www.aithm.jcu.edu.au/professor-emma-mcbryde/), Australian Institute of Tropical Health and Medicine, James Cook University, Queensland, Australia
-* [Adelaide Data Science Centre](https://set.adelaide.edu.au/adelaide-data-science-centre/), University of Adelaide, South Australia, Australia
-* [School of Mathematics and Statistics](https://www.canterbury.ac.nz/study/academic-study/engineering/schools-and-departments-engineering-forestry-product-design/school-of-mathematics-and-statistics), University of Canterbury, New Zealand.
+* [Infectious Disease Dynamics Unit](https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/infectious-disease-dynamics){.external target="_blank"}, Centre for Epidemiology and Biostatistics Research, The University of Melbourne, Victoria, Australia
+* [Infectious Disease Ecology and Modelling Team](https://www.thekids.org.au/our-research/infectious-diseases/infectious-disease-ecology-and-modelling){.external target="_blank"}, The Kids Research Institute Australia, Western Australia, Australia
+* [Defence Science and Technology Group](https://www.dst.defence.gov.au/){.external target="_blank"}, Department of Defence, Australia 
+* [Department of Econometrics & Business Statistics](https://www.monash.edu/business/ebs/){.external target="_blank"}, Monash University, Victoria, Australia
+* [Infectious Disease Dynamics and Interventions Group](https://www.unsw.edu.au/medicine-health/our-schools/population-health/research/research-programs-projects/infectious-disease-dynamics-and-interventions){.external target="_blank"}, School of Population Health, University of New South Wales, New South Wales, Australia
+* [Infectious Disease Epidemiology and Modelling](https://nceph.anu.edu.au/research/research-groups/infectious-diseases-and-modelling){.external target="_blank"}, National Centre for Epidemiology and Population Health, Australian National University, Canberra, Australia
+* [Infectious diseases modelling and Epidemiology Group](https://www.aithm.jcu.edu.au/professor-emma-mcbryde/){.external target="_blank"}, Australian Institute of Tropical Health and Medicine, James Cook University, Queensland, Australia
+* [Adelaide Data Science Centre](https://set.adelaide.edu.au/adelaide-data-science-centre/){.external target="_blank"}, University of Adelaide, South Australia, Australia
+* [School of Mathematics and Statistics](https://www.canterbury.ac.nz/study/academic-study/engineering/schools-and-departments-engineering-forestry-product-design/school-of-mathematics-and-statistics){.external target="_blank"}, University of Canterbury, New Zealand.
 
 ![](/images/ACEFAlaunchphoto.jpg){fig-alt="ACEFA team at launch event" width=80% fig-align="center"}
 

@@ -12,7 +12,7 @@ ACEFA has two active programs related to decision support:
 
 [Annual Winter Situational Assessment Program 2025](winter-assessment.qmd) – predicting past, current, and short-term future trends in respiratory virus activity to support public health awareness and response. 
 
-[Scenario Modelling Hub 2025](scenario-modelling.qmd) – Generate multi-model evidence to support decision-making on the implementation of public health interventions.
+[Scenario Modelling Hub 2025](scenario-modelling.qmd) – generate multi-model evidence to support decision-making on the implementation of public health interventions.
 
 
 <br>
