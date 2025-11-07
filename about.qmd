@@ -20,7 +20,7 @@ ACEFA involves multiple academic research groups from across Australia and New Z
 * [Infectious Disease Epidemiology and Modelling](https://nceph.anu.edu.au/research/research-groups/infectious-diseases-and-modelling){.external target="_blank"}, National Centre for Epidemiology and Population Health, Australian National University, Canberra, Australia
 * [Infectious diseases modelling and Epidemiology Group](https://www.aithm.jcu.edu.au/professor-emma-mcbryde/){.external target="_blank"}, Australian Institute of Tropical Health and Medicine, James Cook University, Queensland, Australia
 * [Adelaide Data Science Centre](https://set.adelaide.edu.au/adelaide-data-science-centre/){.external target="_blank"}, University of Adelaide, South Australia, Australia
-* [School of Mathematics and Statistics](https://www.canterbury.ac.nz/study/academic-study/engineering/schools-and-departments-engineering-forestry-product-design/school-of-mathematics-and-statistics), University of Canterbury, New Zealand.
+* [School of Mathematics and Statistics](https://www.canterbury.ac.nz/study/academic-study/engineering/schools-and-departments-engineering-forestry-product-design/school-of-mathematics-and-statistics){.external target="_blank"}, University of Canterbury, New Zealand.
 
 ![](/images/ACEFAlaunchphoto.jpg){fig-alt="ACEFA team at launch event" width=80% fig-align="center"}
 
