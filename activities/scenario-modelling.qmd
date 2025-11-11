@@ -35,20 +35,20 @@ Modelling teams are investigating the potential impact of six LAIV scenarios (Bâ
 <br>
 <br>
 
-+---------------------------------------------+---------------------------------------------+---------------------------------------------+ 
-| **Dr Alexandra Hogan** \                    | **A/Prof Freya Shearer** \                  | \                                           | 
-| Co-lead                                   \ | Researcher\                                 | \                                           | 
-| University of New South Wales, Sydney, NSW\ | University of Melbourne, Melbourne, VIC\    | \                                           | 
-| alexandra.hogan@unsw.edu.au\                | freya.shearer@unimelb.edu.au \              | \                                           | 
-+---------------------------------------------+---------------------------------------------+---------------------------------------------+ 
-| **Dr Eliran Boksenbojm** \                  | **Dr Tiffany Leung** \                      | **Isaac Stopard** \                         | 
-| Researcher                                \ | Researcher\                                 | Researcher\                                 | 
-| University of Melbourne, Melbourne, VIC  \  | University of New South Wales, Sydney, NSW\ | University of New South Wales, Sydney, NSW\ | 
-+---------------------------------------------+---------------------------------------------+---------------------------------------------+ 
-| **Dr Oliver Eales** \                       | **Prof James Wood **  \                     | **Prof James McCaw** \                      |
-| Analyst and Reporting Lead \                | Researcher \                                | Researcher\                                 |
-| University of Melbourne, Melbourne, VIC \   | University of New South Wales, Sydney, NSW\ | University of Melbourne, Melbourne, VIC\    |
-+---------------------------------------------+---------------------------------------------+---------------------------------------------+
++-----------------------------------------------+--------------------------------------------+
+| **Dr Alexandra Hogan** \                      | **A/Prof Freya Shearer** \                 |
+| Co-lead                                   \   | Co-lead \                                  | 
+| University of New South Wales, Sydney, NSW\   | University of Melbourne, Melbourne, VIC\   | 
+| alexandra.hogan@unsw.edu.au\                  | freya.shearer@unimelb.edu.au \             | 
++-----------------------------------------------+--------------------------------------------+
+| **UNSW team 2025** \                          | **UoM team 2025** \                        |
+| Dr Tiffany Leung \                            | Dr Eliran Boksenbojm \                     |
+| Isaac Stopard \                               | Dr Oliver Eales \                          |
+| Prof James Wood  \                            | Prof James McCaw \                         |
+| Dr Alexandra Hogan \                          | A/Prof Freya Shearer \                     |
+| *University of New South Wales, Sydney, NSW*\ | *University of Melbourne, Melbourne, VIC*\ |
++-----------------------------------------------+--------------------------------------------+
+
 
 <br>
 
