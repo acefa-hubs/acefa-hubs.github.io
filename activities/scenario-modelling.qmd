@@ -43,7 +43,7 @@ Modelling teams are investigating the potential impact of six LAIV scenarios (Bâ
 +-----------------------------------------------+--------------------------------------------+
 | **UNSW team 2025** \                          | **UoM team 2025** \                        |
 | Dr Tiffany Leung \                            | Dr Eliran Boksenbojm \                     |
-| Isaac Stopard \                               | Dr Oliver Eales \                          |
+| Dr Isaac Stopard \                            | Dr Oliver Eales \                          |
 | Prof James Wood  \                            | Prof James McCaw \                         |
 | Dr Alexandra Hogan \                          | A/Prof Freya Shearer \                     |
 | *University of New South Wales, Sydney, NSW*\ | *University of Melbourne, Melbourne, VIC*\ |
