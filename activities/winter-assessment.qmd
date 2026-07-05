@@ -16,7 +16,7 @@ Short-term forecasting of epidemic activity can help to enable rapid understandi
 
 The project has the following aims:
 
-1. To generate real-time epidemic analysis of COVID-19, influenza, and RSV in Australia and New Zealand.
+1. To generate real-time epidemic analysis of COVID-19, influenza, and RSV in Australia and Aotearoa New Zealand.
 
 2. To develop enhanced methods for epidemic situational assessment of viral respiratory pathogens.
 
@@ -25,27 +25,27 @@ The project has the following aims:
 <br>
 <br>
 
-![](/images/Report_Combined.jpg){fig-alt="The cover of two ACEFA reports side by side, with the Australia report number 22 from the 10th of October 2025 on the left and the New Zealand report number 15 from the 3rd of October on the right." width=90% fig-align="center"}
+![](/images/Report_Combined.jpg){fig-alt="The cover of two ACEFA reports side by side, with the Australia report number 22 from the 10th of October 2025 on the left and the Aotearoa New Zealand report number 15 from the 3rd of October on the right." width=90% fig-align="center"}
 
-<p style="text-align: center;color: grey">*Cover page of weekly reports provided to public health partners in Australia and New Zealand during winter months.*</p>
+<p style="text-align: center;color: grey">*Cover page of weekly reports provided to public health partners in Australia and Aotearoa New Zealand during winter months.*</p>
 
 <br>
 <br>
 
-+---------------------------------------------+----------------------------------------------+-------------------------------------------+
-| **Dr Oliver Eales** \                       | **Dr Alec Henderson** \                      | **Dr Rob Moss** \                         |
-| Analyst and Reporting Lead \                | Forecaster \                                 | Forecaster \                              |
-| University of Melbourne, Melbourne, VIC \   | University of Queensland, Brisbane, QLD \    | University of Melbourne, Melbourne, VIC \ |
-| oliver.eales@unimelb.edu.au\                | \                                            | \                                         | 
-+---------------------------------------------+----------------------------------------------+-------------------------------------------+
-| **Dr Adeshina Adekunle** \                  | **Prof Michael Plank** \                     | **Mitchell O’Hara-Wild** \                |
-| Forecaster \                                | Forecaster \                                 | Forecast Evaluation Lead \                |
-| Department of Defence \                     | University of Canterbury, New Zealand \      | Monash University, Melbourne, VIC \       |
-+---------------------------------------------+----------------------------------------------+-------------------------------------------+
-| **Dr Kate Senior** \                        | **Ruarai Tobin** \                           | **Alys Young**\                           |
-| Hub Data Lead \                             | Hub Software Lead \                          | Hub Research Assistant \                  |
-| University of Melbourne, Melbourne, VIC \   | University of Melbourne, Melbourne, VIC \    | University of Melbourne, Melbourne, VIC \ |
-+---------------------------------------------+----------------------------------------------+-------------------------------------------+
++---------------------------------------------+-------------------------------------------------------+-------------------------------------------+
+| **Dr Oliver Eales** \                       | **Dr Alec Henderson** \                               | **Dr Rob Moss** \                         |
+| Analyst and Reporting Lead \                | Forecaster \                                          | Forecaster \                              |
+| University of Melbourne, Melbourne, VIC \   | University of Queensland, Brisbane, QLD \             | University of Melbourne, Melbourne, VIC \ |
+| oliver.eales@unimelb.edu.au\                | \                                                     | \                                         | 
++---------------------------------------------+-------------------------------------------------------+-------------------------------------------+
+| **Dr Adeshina Adekunle** \                  | **Prof Michael Plank** \                              | **Mitchell O’Hara-Wild** \                |
+| Forecaster \                                | Forecaster \                                          | Forecast Evaluation Lead \                |
+| Department of Defence \                     | University of Canterbury, Aotearoa New Zealand \      | Monash University, Melbourne, VIC \       |
++---------------------------------------------+-------------------------------------------------------+-------------------------------------------+
+| **Dr Kate Senior** \                        | **Ruarai Tobin** \                                    | **Alys Young**\                           |
+| Hub Data Lead \                             | Hub Software Lead \                                   | Hub Research Assistant \                  |
+| University of Melbourne, Melbourne, VIC \   | University of Melbourne, Melbourne, VIC \             | University of Melbourne, Melbourne, VIC \ |
++---------------------------------------------+-------------------------------------------------------+-------------------------------------------+
 
 
 <br>

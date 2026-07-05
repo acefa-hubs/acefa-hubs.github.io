@@ -1,6 +1,6 @@
 ---
 title: "**Decision Support**"
-description: "Generate and share real-time analyses with decision-makers in Australia and New Zealand."
+description: "Generate and share real-time analyses with decision-makers in Australia and Aotearoa New Zealand."
 title-block-banner: "#262261"
 title-block-banner-color: white
 image: ../images/vdarkblue-route.png

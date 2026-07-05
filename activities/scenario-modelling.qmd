@@ -11,7 +11,7 @@ sidebar: false
 
 ## Scenario Modelling Pilot Exercise 2025–26
 
-Australian and New Zealand public health partners are interested in assessing the potential population impact of a school-based seasonal influenza immunisation program, using an intranasally delivered live-attenuated influenza vaccine (LAIV).
+Public health partners from Australia and Aotearoa New Zealand are interested in assessing the potential population impact of a school-based seasonal influenza immunisation program, using an intranasally delivered live-attenuated influenza vaccine (LAIV).
 
 **Modelling question:** What are the potential health impacts of a school-based live attenuated influenza vaccination (LAIV) program?
 
@@ -19,7 +19,7 @@ Australian and New Zealand public health partners are interested in assessing th
 
 1.	Provide evidence to support decision-making on the implementation of a school-based LAIV program.  
 
-2.	Establish processes and relationships for multi-model scenario modelling and comparison exercises in Australia and New Zealand, enhancing epidemic preparedness and response.  
+2.	Establish processes and relationships for multi-model scenario modelling and comparison exercises in Australia and Aotearoa New Zealand, enhancing epidemic preparedness and response.  
 
 
 Modelling teams are investigating the potential impact of six LAIV scenarios (B–G) compared to a baseline scenario (A, standard inactivated influenza vaccine administered to all ages).
