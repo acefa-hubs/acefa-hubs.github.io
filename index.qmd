@@ -26,22 +26,11 @@ Australia-Aotearoa Consortium for Epidemic Forecasting & Analytics
 <!-- Possible subtitle -->
 :::
 
-<!-- ```{=html} -->
-
-<!-- <a class="github-button" href="https://github.com/linogaliana/python-datascientist" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this website on Github">Star this website on Github</a><script async defer src="https://buttons.github.io/buttons.js"></script> -->
-
-<!-- ``` -->
-
 <br>
 
 Working to support the timely, effective response to epidemic diseases in Australia and New Zealand through real-time data analytics, modelling, and forecasting.
 
 <br>
-
-<!-- Our work can be found on [**Github**](https://github.com/acefa-hubs) <a href="https://github.com/acefa-hubs" class="github"><i class="fab fa-github"></i></a>. -->
-
-
-
 <br>
 :::
 

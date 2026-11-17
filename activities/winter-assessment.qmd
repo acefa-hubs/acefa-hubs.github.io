@@ -38,15 +38,18 @@ The project has the following aims:
 | University of Melbourne, Melbourne, VIC \   | University of Queensland, Brisbane, QLD \    | University of Melbourne, Melbourne, VIC \ |
 | oliver.eales@unimelb.edu.au\                | \                                            | \                                         | 
 +---------------------------------------------+----------------------------------------------+-------------------------------------------+
-| **Dr Adeshina Adekunle** \                  | **Prof Michael Plank** \                     | **Mitchell O’Hara-Wild** \                |
-| Forecaster \                                | Forecaster \                                 | Forecast Evaluation Lead \                |
-| Department of Defence \                     | University of Canterbury, New Zealand \      | Monash University, Melbourne, VIC \       |
+| **Dr Adeshina Adekunle** \                  | **Prof Michael Plank** \                     | **Dr Andrew Black** \                     |
+| Forecaster \                                | Forecaster \                                 | Forecaster \                              |
+| Department of Defence \                     | University of Canterbury, New Zealand \      | Adelaide University, Adelaide, SA \       |
 +---------------------------------------------+----------------------------------------------+-------------------------------------------+
-| **Dr Kate Senior** \                        | **Ruarai Tobin** \                           | **Alys Young**\                           |
-| Hub Data Lead \                             | Hub Software Lead \                          | Hub Research Assistant \                  |
-| University of Melbourne, Melbourne, VIC \   | University of Melbourne, Melbourne, VIC \    | University of Melbourne, Melbourne, VIC \ |
+| **Mitchell O’Hara-Wild** \                  | **Dr Kate Senior** \                         | **Ruarai Tobin** \                        |               
+| Forecast Evaluation Lead \                  | Hub Data Lead \                              | Forecaster and Hub Software Lead \        |
+| Monash University, Melbourne, VIC \         | University of Melbourne, Melbourne, VIC \    | University of Melbourne, Melbourne, VIC \ |
 +---------------------------------------------+----------------------------------------------+-------------------------------------------+
-
+| **Dr Alys Young**\                          |
+| Hub Research Assistant \                    |
+| University of Melbourne, Melbourne, VIC \   |
++---------------------------------------------+
 
 <br>
 <br>
