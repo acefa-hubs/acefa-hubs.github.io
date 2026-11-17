@@ -12,7 +12,7 @@ ACEFA aims to support the timely, effective response to epidemic diseases in Aus
 
 ACEFA involves multiple academic research groups from across Australia and New Zealand, including:
 
-* [Infectious Disease Dynamics Unit](https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/infectious-disease-dynamics){.external target="_blank"}, Centre for Epidemiology and Biostatistics Research, The University of Melbourne, Victoria, Australia
+* [Infectious Disease Dynamics Unit](https://publichealth.unimelb.edu.au/research-groups/department-epidemiology-biostatistics/infectious-disease-dynamics){.external target="_blank"}, Department of Epidemiology and Biostatistics, The University of Melbourne, Victoria, Australia
 * [Infectious Disease Ecology and Modelling Team](https://www.thekids.org.au/our-research/infectious-diseases/infectious-disease-ecology-and-modelling){.external target="_blank"}, The Kids Research Institute Australia, Western Australia, Australia
 * [Defence Science and Technology Group](https://www.dst.defence.gov.au/){.external target="_blank"}, Department of Defence, Australia 
 * [Department of Econometrics & Business Statistics](https://www.monash.edu/business/ebs/){.external target="_blank"}, Monash University, Victoria, Australia
@@ -37,10 +37,10 @@ ACEFA involves multiple academic research groups from across Australia and New Z
 | **Prof Michael Plank** \                 | **Prof James Wood** \                             | **Prof James McCaw** \                   | 
 | University of Canterbury, New Zealand\   | University of New South Wales, Sydney, NSW \      | University of Melbourne, Melbourne, VIC\ | 
 +------------------------------------------+---------------------------------------------------+------------------------------------------+ 
-| **Prof. Rob Hyndman** \                  | **Dr Alexandra Hogan** \                          | **Dr Peter Dawson** \                    |
+| **Prof Rob Hyndman** \                   | **Dr Alexandra Hogan** \                          | **Dr Peter Dawson** \                    |
 | Monash University, Melbourne, VIC \      | University of New South Wales, Sydney, NSW\       | Department of Defence \                  |
 +------------------------------------------+---------------------------------------------------+------------------------------------------+ 
-| **Dr David Price** \                     | **Prof Kathryn Glass** \                          | **Dr Andrew Black** \                    | 
+| **A/Prof David Price** \                 | **Prof Kathryn Glass** \                          | **Dr Andrew Black** \                    | 
 | University of Melbourne, Melbourne, VIC\ | Australian National University, Canberra, ACT\    |  University of Adelaide, Adelaide, SA\   | 
 +------------------------------------------+---------------------------------------------------+------------------------------------------+ 
 

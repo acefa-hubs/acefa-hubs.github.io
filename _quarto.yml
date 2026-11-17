@@ -18,6 +18,9 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/acefa-hubs
+        target: _blank
+        rel: noopener noreferrer
+        aria-label: "ACEFA on GitHub"
   page-footer: |
       © ACEFA, 2024 <br> 
       Australia-Aotearoa Consortium for Epidemic Forecasting and Analytics (ACEFA) is a National Health and Medical Research Council of Australia Centre of Research Excellence (NHMRC; grant no. 2035303). Research Software for Multi-Team Epidemic Data Analytics is a co-investment partnership with the Australian Research Data Commons (ARDC) through the Disease Data Challenges Program (DOI: [10.3565/p4dp-jf82](https://doi.org/10.3565/p4dp-jf82)). The ARDC is enabled by the Australian Government’s National Collaborative Research Infrastructure Strategy (NCRIS).  <br>  <br> 
